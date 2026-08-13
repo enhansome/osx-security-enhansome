@@ -1,0 +1,356 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardening"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Malware sample sources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Alien Vault"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contagio malware dump"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Digital Forensics / Incident Response (DFIR)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Source code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-25T01:12:28Z",
+            "owner": "mac4n6",
+            "repo": "APOLLO",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presentation slides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-18T13:00:18Z",
+            "owner": "mac4n6",
+            "repo": "Presentations",
+            "stars": 265
+          }
+        }
+      ],
+      "title": "APOLLO tool"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Keychain analysis with Mac OSX Forensics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blackbag Tech free tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reverse engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The iPhone Wiki"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reverse engineering OSX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Presentations and Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Area41 2018: Daniel Roethlisberger: Monitoring MacOS For Malware And Intrusions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Methods of Malware Persistence on OSX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Advanced Mac OSX Rootkits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Breaking iOS Code Signing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The Apple Sandbox - 5 years later"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Practical iOS App Hacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Behavioral Detection and Prevention of Malware on OS X"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Direct Memory Attack the Kernel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Strolling into Ring-0 via I/O Kit Drivers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Juice Jacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Building an EmPyre with Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PoisonTap"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Collection of mac4en6 papers/presentations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The Underground Economy of Apple ID"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "iOS of Sauron: How iOS Tracks Everything You Do"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "macOS/iOS Kernel Debugging and Heap Feng Shui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Billy Ellis iOS/OSX hacking YouTube channel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Jailbreaking Apple Watch at DEFCON-25"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Virus and exploit writeups"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Leveraging emond on macOS for persistence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A fun XNU infoleak"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Flashback pt 2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mokes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MacKeeper"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OpinionSpy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Elanor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mac Defender"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wire Lurker"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Proof-of-concept USB attack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dark Jedi"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EFI attack that exploits a vulnerability in suspend-resume cycle Sentinel One write-up"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Juice Jacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PEGASUS iOS Kernel Vulnerability Explained"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analysis of iOS.GuiInject Adware Library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful tools and guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PoisonTap"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "iPhone Data Protection in Depth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile CTF challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remote Access Toolkits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Empyre"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bella"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stitch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pupy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EvilOSX - Pure python post-exploitation toolkit"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:04.546Z",
+    "original_repository": "kai5263499/osx-security-awesome",
+    "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
+    "enhanced_repository": "enhansome/osx-security-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome osx security awesome with stars"
+  }
+}
