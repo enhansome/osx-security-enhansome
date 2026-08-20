@@ -1,353 +1,860 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 136174312,
+            "language": "Shell",
+            "last_commit": "2022-05-17T06:25:57Z",
+            "owner": "writeups",
+            "repo": "iOS",
+            "stars": 1099
+          },
+          "title": "iOS vulnerability write-up"
+        }
+      ],
       "title": "News"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 23080035,
+            "language": "Python",
+            "last_commit": "2023-06-20T22:33:24Z",
+            "owner": "google",
+            "repo": "macops",
+            "stars": 823
+          },
+          "title": "macops"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 103965116,
+            "language": "Python",
+            "last_commit": "2021-12-17T21:38:56Z",
+            "owner": "duo-labs",
+            "repo": "EFIgy",
+            "stars": 508
+          },
+          "title": "EFIgy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 113375448,
+            "language": "Python",
+            "last_commit": "2025-04-24T08:53:20Z",
+            "owner": "malus-security",
+            "repo": "sandblaster",
+            "stars": 268
+          },
+          "title": "Sandblaster"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 66006321,
+            "language": null,
+            "last_commit": "2026-07-08T11:52:41Z",
+            "owner": "ernw",
+            "repo": "hardening",
+            "stars": 653
+          },
+          "title": "OSX El Capitan Hardening Guide"
+        }
+      ],
       "title": "Hardening"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Malware sample sources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Alien Vault"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contagio malware dump"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156101695,
+                "language": "Python",
+                "last_commit": "2024-02-25T01:12:28Z",
+                "owner": "mac4n6",
+                "repo": "APOLLO",
+                "stars": 652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Presentation slides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46201569,
+                "language": null,
+                "last_commit": "2025-03-18T13:00:18Z",
+                "owner": "mac4n6",
+                "repo": "Presentations",
+                "stars": 265
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APOLLO tool"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 15078635,
+            "language": "Shell",
+            "last_commit": "2026-08-05T12:12:12Z",
+            "owner": "CISOfy",
+            "repo": "lynis",
+            "stars": 16183
+          },
+          "title": "lynis"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 143947022,
+            "language": "Objective-C",
+            "last_commit": "2021-10-29T14:27:28Z",
+            "owner": "knightsc",
+            "repo": "system_policy",
+            "stars": 32
+          },
+          "title": "Legacy Exec History"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 36142296,
+            "language": "C",
+            "last_commit": "2019-03-04T17:01:16Z",
+            "owner": "sud0man",
+            "repo": "pac4mac",
+            "stars": 41
+          },
+          "title": "Pac4Mac"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1916708,
+            "language": "Python",
+            "last_commit": "2025-06-13T09:40:01Z",
+            "owner": "carmaa",
+            "repo": "inception",
+            "stars": 1604
+          },
+          "title": "Inception"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 32310199,
+            "language": "Python",
+            "last_commit": "2016-07-25T00:39:38Z",
+            "owner": "n0fate",
+            "repo": "volafox",
+            "stars": 175
+          },
+          "title": "Volafox"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 32288372,
+            "language": "Python",
+            "last_commit": "2021-11-11T10:59:21Z",
+            "owner": "pstirparo",
+            "repo": "mac4n6",
+            "stars": 346
+          },
+          "title": "Mac4n6"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 22615096,
+            "language": "Python",
+            "last_commit": "2019-06-19T15:40:49Z",
+            "owner": "YelpArchive",
+            "repo": "osxcollector",
+            "stars": 1895
+          },
+          "title": "OSX Collector"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 101311218,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:14:30Z",
+            "owner": "ydkhatri",
+            "repo": "mac_apt",
+            "stars": 1077
+          },
+          "title": "mac-apt"
+        }
+      ],
       "title": "Digital Forensics / Incident Response (DFIR)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Source code",
-          "description": null,
           "children": [],
+          "description": null,
+          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-25T01:12:28Z",
-            "owner": "mac4n6",
-            "repo": "APOLLO",
-            "stars": 652
-          }
+            "id": 39006326,
+            "language": null,
+            "last_commit": "2019-12-19T17:32:48Z",
+            "owner": "michalmalik",
+            "repo": "osx-re-101",
+            "stars": 1729
+          },
+          "title": "Collection of OSX reverse engineering resources"
         },
         {
-          "node_type": "item",
-          "title": "Presentation slides",
-          "description": null,
           "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 93205465,
+            "language": "C",
+            "last_commit": "2023-01-13T01:48:01Z",
+            "owner": "apple",
+            "repo": "darwin-xnu",
+            "stars": 11261
+          },
+          "title": "iOS Kernel source"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 53292594,
             "language": null,
-            "last_commit": "2025-03-18T13:00:18Z",
-            "owner": "mac4n6",
-            "repo": "Presentations",
-            "stars": 265
-          }
+            "last_commit": "2023-08-19T07:30:45Z",
+            "owner": "tylerha97",
+            "repo": "awesome-reversing",
+            "stars": 4508
+          },
+          "title": "Awesome Reversing"
         }
       ],
-      "title": "APOLLO tool"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Keychain analysis with Mac OSX Forensics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blackbag Tech free tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Reverse engineering"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "The iPhone Wiki"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Reverse engineering OSX"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 65235494,
+            "language": null,
+            "last_commit": "2020-02-17T18:14:40Z",
+            "owner": "ufrisk",
+            "repo": "presentations",
+            "stars": 44
+          },
+          "title": "Direct Memory Attack the Kernel"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 63928870,
+            "language": "HTML",
+            "last_commit": "2021-08-12T06:05:05Z",
+            "owner": "zhengmin1989",
+            "repo": "MyArticles",
+            "stars": 871
+          },
+          "title": "macOS/iOS Kernel Debugging and Heap Feng Shui"
+        }
+      ],
       "title": "Presentations and Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Area41 2018: Daniel Roethlisberger: Monitoring MacOS For Malware And Intrusions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Methods of Malware Persistence on OSX"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Advanced Mac OSX Rootkits"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Breaking iOS Code Signing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "The Apple Sandbox - 5 years later"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Practical iOS App Hacking"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Behavioral Detection and Prevention of Malware on OS X"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Direct Memory Attack the Kernel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Strolling into Ring-0 via I/O Kit Drivers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Juice Jacking"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Building an EmPyre with Python"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PoisonTap"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Collection of mac4en6 papers/presentations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "The Underground Economy of Apple ID"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "iOS of Sauron: How iOS Tracks Everything You Do"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "macOS/iOS Kernel Debugging and Heap Feng Shui"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Billy Ellis iOS/OSX hacking YouTube channel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Jailbreaking Apple Watch at DEFCON-25"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 151061210,
+            "language": "Python",
+            "last_commit": "2018-10-04T09:01:04Z",
+            "owner": "Synacktiv-contrib",
+            "repo": "kernelcache-laundering",
+            "stars": 60
+          },
+          "title": "kernelcache laundering"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 122551718,
+            "language": "C",
+            "last_commit": "2018-11-13T00:26:18Z",
+            "owner": "bazad",
+            "repo": "blanket",
+            "stars": 260
+          },
+          "title": "blanket"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 134660336,
+            "language": "C",
+            "last_commit": "2020-10-01T06:48:00Z",
+            "owner": "externalist",
+            "repo": "exploit_playground",
+            "stars": 616
+          },
+          "title": "Proof of Concept for Remote Code Execution in WebContent"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 83670182,
+            "language": "Objective-C",
+            "last_commit": "2019-02-21T07:49:36Z",
+            "owner": "zhengmin1989",
+            "repo": "macOS-10.12.2-Exp-via-mach_voucher",
+            "stars": 94
+          },
+          "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui"
+        }
+      ],
       "title": "Virus and exploit writeups"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Leveraging emond on macOS for persistence"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "A fun XNU infoleak"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Flashback pt 2"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mokes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MacKeeper"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "OpinionSpy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Elanor"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mac Defender"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Wire Lurker"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Proof-of-concept USB attack"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dark Jedi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "EFI attack that exploits a vulnerability in suspend-resume cycle Sentinel One write-up"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Juice Jacking"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PEGASUS iOS Kernel Vulnerability Explained"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Analysis of iOS.GuiInject Adware Library"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 153515504,
+            "language": "Swift",
+            "last_commit": "2021-03-30T14:30:10Z",
+            "owner": "IBM",
+            "repo": "mac-ibm-enrollment-app",
+            "stars": 449
+          },
+          "title": "Mac@IBM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 134957619,
+            "language": "Shell",
+            "last_commit": "2021-02-17T13:54:18Z",
+            "owner": "0xmachos",
+            "repo": "mOSL",
+            "stars": 221
+          },
+          "title": "mOSL"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7077690,
+            "language": "Objective-C",
+            "last_commit": "2026-08-19T04:38:56Z",
+            "owner": "darlinghq",
+            "repo": "darling",
+            "stars": 13093
+          },
+          "title": "Darling"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 143947987,
+            "language": "C",
+            "last_commit": "2026-03-16T08:09:59Z",
+            "owner": "didi",
+            "repo": "kemon",
+            "stars": 398
+          },
+          "title": "Kemon"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 143610581,
+            "language": "Objective-C",
+            "last_commit": "2018-08-05T06:37:02Z",
+            "owner": "kai5263499",
+            "repo": "jelbrekTime",
+            "stars": 1
+          },
+          "title": "jelbrektime"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 137188440,
+            "language": "Objective-C",
+            "last_commit": "2018-06-13T12:54:33Z",
+            "owner": "Sentinel-One",
+            "repo": "macos-are-you-really-signed",
+            "stars": 7
+          },
+          "title": "Are you really signed?"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 11860214,
+            "language": "Python",
+            "last_commit": "2025-12-06T01:03:12Z",
+            "owner": "pirate",
+            "repo": "security-growler",
+            "stars": 874
+          },
+          "title": "osx security growler"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 124896289,
+            "language": "C",
+            "last_commit": "2018-09-22T10:55:23Z",
+            "owner": "phdphuc",
+            "repo": "mac-a-mal",
+            "stars": 89
+          },
+          "title": "mac-a-mal"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 172460,
+            "language": "Objective-C",
+            "last_commit": "2023-01-20T13:52:28Z",
+            "owner": "rentzsch",
+            "repo": "jrswizzle",
+            "stars": 2644
+          },
+          "title": "jrswizzle"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 49774773,
+            "language": "C",
+            "last_commit": "2016-05-04T18:57:20Z",
+            "owner": "blankwall",
+            "repo": "MacDBG",
+            "stars": 291
+          },
+          "title": "MacDBG"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 39974586,
+            "language": "C",
+            "last_commit": "2017-09-26T08:40:01Z",
+            "owner": "AlexDenisov",
+            "repo": "bitcode_retriever",
+            "stars": 183
+          },
+          "title": "bitcode_retriever"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 8143738,
+            "language": "Python",
+            "last_commit": "2025-02-06T02:07:13Z",
+            "owner": "enthought",
+            "repo": "machotools",
+            "stars": 2
+          },
+          "title": "machotools"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 50746,
+            "language": "Shell",
+            "last_commit": "2026-07-02T10:47:56Z",
+            "owner": "create-dmg",
+            "repo": "create-dmg",
+            "stars": 2613
+          },
+          "title": "create-dmg"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 64414903,
+            "language": "Ruby",
+            "last_commit": "2016-09-24T17:17:23Z",
+            "owner": "kai5263499",
+            "repo": "homebrew-infosec",
+            "stars": 12
+          },
+          "title": "Infosec Homebrew"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 42956467,
+            "language": null,
+            "last_commit": "2026-03-04T11:01:49Z",
+            "owner": "herrbischoff",
+            "repo": "awesome-macos-command-line",
+            "stars": 30840
+          },
+          "title": "Awesome OSX Command Line"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 5684107,
+            "language": "C",
+            "last_commit": "2019-03-11T01:47:42Z",
+            "owner": "juuso",
+            "repo": "keychaindump",
+            "stars": 512
+          },
+          "title": "Keychain dump"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 65740390,
+            "language": "Python",
+            "last_commit": "2025-08-22T23:18:25Z",
+            "owner": "threatstream",
+            "repo": "symhash",
+            "stars": 40
+          },
+          "title": "Symhash"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 5930892,
+            "language": "Objective-C",
+            "last_commit": "2018-08-28T15:47:40Z",
+            "owner": "IGRSoft",
+            "repo": "KisMac2",
+            "stars": 918
+          },
+          "title": "KisMac2"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 71976500,
+            "language": "C",
+            "last_commit": "2017-10-18T10:29:47Z",
+            "owner": "SilverMoonSecurity",
+            "repo": "PassiveFuzzFrameworkOSX",
+            "stars": 229
+          },
+          "title": "Passive fuzz framework"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 24218803,
+            "language": "Python",
+            "last_commit": "2017-10-03T14:20:28Z",
+            "owner": "munki",
+            "repo": "createOSXinstallPkg",
+            "stars": 318
+          },
+          "title": "createOSXinstallPkg"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 73915307,
+            "language": "JavaScript",
+            "last_commit": "2018-11-26T16:50:44Z",
+            "owner": "samyk",
+            "repo": "poisontap",
+            "stars": 6476
+          },
+          "title": "PoisonTap"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 17494082,
+            "language": "Python",
+            "last_commit": "2026-08-18T20:59:06Z",
+            "owner": "chipsec",
+            "repo": "chipsec",
+            "stars": 3297
+          },
+          "title": "Chipsec"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1222452390,
+            "language": "Shell",
+            "last_commit": "2026-08-19T04:54:16Z",
+            "owner": "thousandflowers",
+            "repo": "Raccoon",
+            "stars": 130
+          },
+          "title": "Raccoon"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1186242047,
+            "language": "Swift",
+            "last_commit": "2026-08-18T05:32:38Z",
+            "owner": "sorkila",
+            "repo": "lockpaw",
+            "stars": 144
+          },
+          "title": "Lockpaw"
+        }
+      ],
       "title": "Useful tools and guides"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "PoisonTap"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "iPhone Data Protection in Depth"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mobile CTF challenges"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 52812449,
+            "language": "Python",
+            "last_commit": "2017-08-24T00:08:41Z",
+            "owner": "EmpireProject",
+            "repo": "EmPyre",
+            "stars": 872
+          },
+          "title": "Empyre"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 83510506,
+            "language": "Python",
+            "last_commit": "2017-02-22T15:37:35Z",
+            "owner": "kai5263499",
+            "repo": "Bella",
+            "stars": 11
+          },
+          "title": "Bella"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 42882329,
+            "language": "Python",
+            "last_commit": "2024-03-22T08:52:53Z",
+            "owner": "n1nj4sec",
+            "repo": "pupy",
+            "stars": 9000
+          },
+          "title": "Pupy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 38445459,
+            "language": "Objective-C",
+            "last_commit": "2021-03-25T22:04:52Z",
+            "owner": "lucasjacks0n",
+            "repo": "EggShell",
+            "stars": 1766
+          },
+          "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 121546909,
+            "language": "Python",
+            "last_commit": "2021-02-10T15:02:53Z",
+            "owner": "Marten4n6",
+            "repo": "EvilOSX",
+            "stars": 2413
+          },
+          "title": "EvilOSX - Pure python post-exploitation toolkit"
+        }
+      ],
       "title": "Remote Access Toolkits"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Empyre"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bella"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stitch"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pupy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "EvilOSX - Pure python post-exploitation toolkit"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:56:53.083Z",
+    "last_updated": "2026-08-20T02:56:38.572Z",
     "original_repository": "kai5263499/osx-security-awesome",
+    "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
     "enhanced_repository": "enhansome/osx-security-enhansome",
     "enhanced_repository_description": null,

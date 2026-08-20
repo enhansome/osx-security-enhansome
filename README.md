@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,463 | 🐛 102 | 📅 2026-08-18[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,859 | 🐛 103 | 📅 2026-08-18[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -104,7 +104,7 @@ A collection of OSX/iOS security related resources
 * Reversing the Apple sandbox
 * [Paper](https://arxiv.org/pdf/1608.04303.pdf)
 
-### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 2 | 📅 2026-07-08
+### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 3 | 📅 2026-07-08
 
 * Hardening guide for El Capitan
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * Python tool for proactive detection tool for malware and trojans
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,177 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,183 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -191,7 +191,7 @@ A collection of OSX/iOS security related resources
 
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
-### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,075 | 🐛 8 | 🌐 Python | 📅 2026-07-23
+### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,077 | 🐛 8 | 🌐 Python | 📅 2026-07-23
 
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 213 | 🐛 2 | 🌐 Python | 📅 2024-08-04
@@ -226,7 +226,7 @@ A collection of OSX/iOS security related resources
 
 * Very good list of various crackme challenges that is categorized by level and OS
 
-### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,507 | 🐛 17 | 📅 2023-08-19
+### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,508 | 🐛 17 | 📅 2023-08-19
 
 * Awesome list dedicated to reversing
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,091 | 🐛 396 | 🌐 Objective-C | 📅 2026-08-09
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,093 | 🐛 395 | 🌐 Objective-C | 📅 2026-08-19
 
 * Darwin/macOS emulation layer for Linux
 
@@ -483,7 +483,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Utility to test for code-sign bypass vulnerability
 
-### [osx security growler](https://github.com/pirate/security-growler) ⭐ 873 | 🐛 1 | 🌐 Python | 📅 2025-12-06
+### [osx security growler](https://github.com/pirate/security-growler) ⭐ 874 | 🐛 1 | 🌐 Python | 📅 2025-12-06
 
 * Mac menubar item that lets you know about security events on your system
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,612 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,613 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-18
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-19
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
