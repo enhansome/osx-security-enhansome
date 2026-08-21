@@ -77,7 +77,7 @@
             "archived": false,
             "id": 66006321,
             "language": null,
-            "last_commit": "2026-07-08T11:52:41Z",
+            "last_commit": "2026-08-20T06:40:00Z",
             "owner": "ernw",
             "repo": "hardening",
             "stars": 653
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16183
+            "stars": 16187
           },
           "title": "lynis"
         },
@@ -153,7 +153,7 @@
             "last_commit": "2021-10-29T14:27:28Z",
             "owner": "knightsc",
             "repo": "system_policy",
-            "stars": 32
+            "stars": 33
           },
           "title": "Legacy Exec History"
         },
@@ -279,7 +279,7 @@
             "last_commit": "2023-01-13T01:48:01Z",
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11261
+            "stars": 11262
           },
           "title": "iOS Kernel source"
         },
@@ -294,7 +294,7 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4508
+            "stars": 4509
           },
           "title": "Awesome Reversing"
         }
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T04:38:56Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13093
+            "stars": 13097
           },
           "title": "Darling"
         },
@@ -507,7 +507,7 @@
             "last_commit": "2025-12-06T01:03:12Z",
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 874
+            "stars": 873
           },
           "title": "osx security growler"
         },
@@ -627,7 +627,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30840
+            "stars": 30843
           },
           "title": "Awesome OSX Command Line"
         },
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-18T20:59:06Z",
+            "last_commit": "2026-08-21T01:02:58Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3297
+            "stars": 3295
           },
           "title": "Chipsec"
         },
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 144
+            "stars": 143
           },
           "title": "Lockpaw"
         }
@@ -813,7 +813,7 @@
             "last_commit": "2024-03-22T08:52:53Z",
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000
+            "stars": 8998
           },
           "title": "Pupy"
         },
@@ -828,7 +828,7 @@
             "last_commit": "2021-03-25T22:04:52Z",
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1766
+            "stars": 1767
           },
           "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
         },
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:56:38.572Z",
+    "last_updated": "2026-08-21T03:02:20.765Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
