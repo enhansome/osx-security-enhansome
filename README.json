@@ -138,7 +138,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16187
+            "stars": 16191
           },
           "title": "lynis"
         },
@@ -183,7 +183,7 @@
             "last_commit": "2025-06-13T09:40:01Z",
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1604
+            "stars": 1603
           },
           "title": "Inception"
         },
@@ -228,7 +228,7 @@
             "last_commit": "2019-06-19T15:40:49Z",
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1895
+            "stars": 1894
           },
           "title": "OSX Collector"
         },
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 101311218,
             "language": "Python",
-            "last_commit": "2026-07-23T09:14:30Z",
+            "last_commit": "2026-08-21T23:27:52Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1075
           },
           "title": "mac-apt"
         }
@@ -279,7 +279,7 @@
             "last_commit": "2023-01-13T01:48:01Z",
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11262
+            "stars": 11261
           },
           "title": "iOS Kernel source"
         },
@@ -294,7 +294,7 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4509
+            "stars": 4511
           },
           "title": "Awesome Reversing"
         }
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T04:38:56Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13097
+            "stars": 13099
           },
           "title": "Darling"
         },
@@ -627,7 +627,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30843
+            "stars": 30841
           },
           "title": "Awesome OSX Command Line"
         },
@@ -717,7 +717,7 @@
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476
+            "stars": 6474
           },
           "title": "PoisonTap"
         },
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-21T01:02:58Z",
+            "last_commit": "2026-08-22T00:22:57Z",
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3295
+            "stars": 3294
           },
           "title": "Chipsec"
         },
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-19T04:54:16Z",
+            "last_commit": "2026-08-21T04:56:25Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -813,7 +813,7 @@
             "last_commit": "2024-03-22T08:52:53Z",
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8998
+            "stars": 8999
           },
           "title": "Pupy"
         },
@@ -828,7 +828,7 @@
             "last_commit": "2021-03-25T22:04:52Z",
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1767
+            "stars": 1768
           },
           "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
         },
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:02:20.765Z",
+    "last_updated": "2026-08-22T02:53:57.029Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
