@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,674 | 🐛 105 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,017 | 🐛 106 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -127,7 +127,7 @@ A collection of OSX/iOS security related resources
 ### APOLLO tool
 
 * [Source code](https://github.com/mac4n6/APOLLO) ⭐ 652 | 🐛 8 | 🌐 Python | 📅 2024-02-25
-* [Presentation slides](https://github.com/mac4n6/Presentations/blob/master/LaunchingAPOLLO/LaunchingAPOLLO.pdf) ⭐ 265 | 🐛 0 | 📅 2025-03-18
+* [Presentation slides](https://github.com/mac4n6/Presentations/blob/master/LaunchingAPOLLO/LaunchingAPOLLO.pdf) ⭐ 266 | 🐛 0 | 📅 2025-03-18
 * Python tool for advanced forensics analysis
 
 ### [venator](https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56)
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * Python tool for proactive detection tool for malware and trojans
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,191 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,198 | 🐛 218 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -226,7 +226,7 @@ A collection of OSX/iOS security related resources
 
 * Very good list of various crackme challenges that is categorized by level and OS
 
-### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,511 | 🐛 17 | 📅 2023-08-19
+### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,512 | 🐛 17 | 📅 2023-08-19
 
 * Awesome list dedicated to reversing
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,099 | 🐛 395 | 🌐 Objective-C | 📅 2026-08-19
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,099 | 🐛 395 | 🌐 Objective-C | 📅 2026-08-22
 
 * Darwin/macOS emulation layer for Linux
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,613 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,615 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-21
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-22
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -633,7 +633,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Pupy](https://github.com/n1nj4sec/pupy) ⚠️ Archived
 
-### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,768 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
+### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,769 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
 ### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,413 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
@@ -652,8 +652,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,722 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,727 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

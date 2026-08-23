@@ -119,7 +119,7 @@
                 "last_commit": "2025-03-18T13:00:18Z",
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 265
+                "stars": 266
               }
             }
           ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16191
+            "stars": 16198
           },
           "title": "lynis"
         },
@@ -279,7 +279,7 @@
             "last_commit": "2023-01-13T01:48:01Z",
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11261
+            "stars": 11262
           },
           "title": "iOS Kernel source"
         },
@@ -294,7 +294,7 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4511
+            "stars": 4512
           },
           "title": "Awesome Reversing"
         }
@@ -444,7 +444,7 @@
             "archived": false,
             "id": 7077690,
             "language": "Objective-C",
-            "last_commit": "2026-08-19T04:38:56Z",
+            "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
             "stars": 13099
@@ -597,7 +597,7 @@
             "last_commit": "2026-07-02T10:47:56Z",
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2613
+            "stars": 2615
           },
           "title": "create-dmg"
         },
@@ -627,7 +627,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30841
+            "stars": 30846
           },
           "title": "Awesome OSX Command Line"
         },
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-21T04:56:25Z",
+            "last_commit": "2026-08-22T04:52:01Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -828,7 +828,7 @@
             "last_commit": "2021-03-25T22:04:52Z",
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1768
+            "stars": 1769
           },
           "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
         },
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:53:57.029Z",
+    "last_updated": "2026-08-23T03:02:38.499Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
