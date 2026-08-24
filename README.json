@@ -14,7 +14,7 @@
             "last_commit": "2022-05-17T06:25:57Z",
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1099
+            "stars": 1101
           },
           "title": "iOS vulnerability write-up"
         }
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16198
+            "stars": 16211
           },
           "title": "lynis"
         },
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T23:27:52Z",
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1075
+            "stars": 1076
           },
           "title": "mac-apt"
         }
@@ -279,7 +279,7 @@
             "last_commit": "2023-01-13T01:48:01Z",
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11262
+            "stars": 11265
           },
           "title": "iOS Kernel source"
         },
@@ -294,7 +294,7 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4512
+            "stars": 4514
           },
           "title": "Awesome Reversing"
         }
@@ -432,7 +432,7 @@
             "last_commit": "2021-02-17T13:54:18Z",
             "owner": "0xmachos",
             "repo": "mOSL",
-            "stars": 221
+            "stars": 220
           },
           "title": "mOSL"
         },
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13099
+            "stars": 13100
           },
           "title": "Darling"
         },
@@ -627,7 +627,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30846
+            "stars": 30850
           },
           "title": "Awesome OSX Command Line"
         },
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-22T00:22:57Z",
+            "last_commit": "2026-08-24T01:06:47Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3294
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-22T04:52:01Z",
+            "last_commit": "2026-08-23T04:53:53Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:02:38.499Z",
+    "last_updated": "2026-08-24T03:03:05.420Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
