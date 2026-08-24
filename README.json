@@ -128,6 +128,28 @@
           "title": "APOLLO tool"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 167731829,
+                "language": "Python",
+                "last_commit": "2020-07-01T14:11:34Z",
+                "owner": "richiercyrus",
+                "repo": "Venator",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "venator"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -138,7 +160,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16211
+            "stars": 16219
           },
           "title": "lynis"
         },
@@ -183,7 +205,7 @@
             "last_commit": "2025-06-13T09:40:01Z",
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1603
+            "stars": 1602
           },
           "title": "Inception"
         },
@@ -233,7 +255,23 @@
           "title": "OSX Collector"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The author also has a collection of DFIR scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78084619,
+                "language": "Python",
+                "last_commit": "2024-08-04T14:35:10Z",
+                "owner": "ydkhatri",
+                "repo": "MacForensics",
+                "stars": 213
+              }
+            }
+          ],
           "description": null,
           "node_type": "item",
           "repo_info": {
@@ -294,7 +332,7 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4514
+            "stars": 4513
           },
           "title": "Awesome Reversing"
         }
@@ -386,6 +424,28 @@
           "title": "Proof of Concept for Remote Code Execution in WebContent"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proof of concept",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116288842,
+                "language": "C",
+                "last_commit": "2018-01-06T15:29:38Z",
+                "owner": "gkaindl",
+                "repo": "meltdown-poc",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Meltdown"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -447,7 +507,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13100
+            "stars": 13101
           },
           "title": "Darling"
         },
@@ -480,6 +540,28 @@
             "stars": 1
           },
           "title": "jelbrektime"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137413815,
+                "language": "C",
+                "last_commit": "2025-02-05T13:18:20Z",
+                "owner": "droe",
+                "repo": "xnumon",
+                "stars": 235
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "xnumon"
         },
         {
           "children": [],
@@ -592,12 +674,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 41740163,
+            "language": "C",
+            "last_commit": "2020-12-08T19:44:26Z",
+            "owner": "acidanthera",
+            "repo": "onyx-the-black-cat",
+            "stars": 23
+          },
+          "title": "onyx-the-black-cat (outdated original)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 50746,
             "language": "Shell",
             "last_commit": "2026-07-02T10:47:56Z",
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2615
+            "stars": 2616
           },
           "title": "create-dmg"
         },
@@ -627,7 +724,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30850
+            "stars": 30852
           },
           "title": "Awesome OSX Command Line"
         },
@@ -737,6 +834,28 @@
           "title": "Chipsec"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Another python utility",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103056218,
+                "language": "Python",
+                "last_commit": "2024-03-26T00:49:04Z",
+                "owner": "gh2o",
+                "repo": "rvi_capture",
+                "stars": 216
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Remote Packet Capture for iOS Devices"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -744,7 +863,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-23T04:53:53Z",
+            "last_commit": "2026-08-24T05:03:58Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -759,7 +878,7 @@
             "archived": false,
             "id": 1186242047,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:32:38Z",
+            "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -852,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:03:05.420Z",
+    "last_updated": "2026-08-24T14:18:03.775Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
