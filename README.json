@@ -94,7 +94,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source code",
+              "title": "mac4n6/APOLLO",
               "description": null,
               "children": [],
               "repo_info": {
@@ -131,7 +131,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source",
+              "title": "richiercyrus/Venator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16222
+            "stars": 16224
           },
           "title": "lynis"
         },
@@ -545,7 +545,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "source",
+              "title": "droe/xnumon",
               "description": null,
               "children": [],
               "repo_info": {
@@ -724,7 +724,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30852
+            "stars": 30853
           },
           "title": "Awesome OSX Command Line"
         },
@@ -863,7 +863,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-25T01:46:34Z",
+            "last_commit": "2026-08-25T04:55:59Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:58:07.872Z",
+    "last_updated": "2026-08-25T06:11:46.368Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
