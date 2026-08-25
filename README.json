@@ -14,7 +14,7 @@
             "last_commit": "2022-05-17T06:25:57Z",
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1101
+            "stars": 1100
           },
           "title": "iOS vulnerability write-up"
         }
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16219
+            "stars": 16222
           },
           "title": "lynis"
         },
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13101
+            "stars": 13103
           },
           "title": "Darling"
         },
@@ -826,7 +826,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-24T01:06:47Z",
+            "last_commit": "2026-08-24T23:57:40Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3294
@@ -863,7 +863,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-24T05:03:58Z",
+            "last_commit": "2026-08-25T01:46:34Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:03.775Z",
+    "last_updated": "2026-08-25T02:58:07.872Z",
     "original_repository": "kai5263499/osx-security-awesome",
     "original_repository_id": 64573526,
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
