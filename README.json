@@ -160,7 +160,7 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16230
+            "stars": 16242
           },
           "title": "lynis"
         },
@@ -317,7 +317,7 @@
             "last_commit": "2023-01-13T01:48:01Z",
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11265
+            "stars": 11267
           },
           "title": "iOS Kernel source"
         },
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13105
+            "stars": 13106
           },
           "title": "Darling"
         },
@@ -694,7 +694,7 @@
             "last_commit": "2026-07-02T10:47:56Z",
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2616
+            "stars": 2618
           },
           "title": "create-dmg"
         },
@@ -724,7 +724,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30852
+            "stars": 30854
           },
           "title": "Awesome OSX Command Line"
         },
@@ -754,7 +754,7 @@
             "last_commit": "2025-08-22T23:18:25Z",
             "owner": "threatstream",
             "repo": "symhash",
-            "stars": 40
+            "stars": 41
           },
           "title": "Symhash"
         },
@@ -814,7 +814,7 @@
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6474
+            "stars": 6475
           },
           "title": "PoisonTap"
         },
@@ -826,7 +826,7 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-25T23:56:08Z",
+            "last_commit": "2026-08-26T23:07:42Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3295
@@ -863,7 +863,7 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:55:59Z",
+            "last_commit": "2026-08-26T04:57:41Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
@@ -881,7 +881,7 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 143
+            "stars": 144
           },
           "title": "Lockpaw"
         }
@@ -962,7 +962,7 @@
             "last_commit": "2021-02-10T15:02:53Z",
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2414
+            "stars": 2415
           },
           "title": "EvilOSX - Pure python post-exploitation toolkit"
         }
@@ -971,9 +971,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:04:49.181Z",
-    "original_repository": "kai5263499/osx-security-awesome",
-    "original_repository_id": 64573526,
+    "last_updated": "2026-08-27T12:13:13.236Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 64573526,
+      "language": null,
+      "last_commit": "2026-06-27T22:16:28Z",
+      "owner": "kai5263499",
+      "repo": "osx-security-awesome",
+      "stars": 788
+    },
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
     "enhanced_repository": "enhansome/osx-security-enhansome",
     "enhanced_repository_description": null,
