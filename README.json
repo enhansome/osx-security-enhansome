@@ -14,9 +14,10 @@
             "last_commit": "2022-05-17T06:25:57Z",
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1100
+            "stars": 1101
           },
-          "title": "iOS vulnerability write-up"
+          "title": "iOS vulnerability write-up",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "News"
@@ -37,7 +38,8 @@
             "repo": "macops",
             "stars": 823
           },
-          "title": "macops"
+          "title": "macops",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -52,7 +54,8 @@
             "repo": "EFIgy",
             "stars": 508
           },
-          "title": "EFIgy"
+          "title": "EFIgy",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -67,7 +70,8 @@
             "repo": "sandblaster",
             "stars": 268
           },
-          "title": "Sandblaster"
+          "title": "Sandblaster",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -82,7 +86,8 @@
             "repo": "hardening",
             "stars": 653
           },
-          "title": "OSX El Capitan Hardening Guide"
+          "title": "OSX El Capitan Hardening Guide",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Hardening"
@@ -105,7 +110,8 @@
                 "owner": "mac4n6",
                 "repo": "APOLLO",
                 "stars": 652
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             },
             {
               "node_type": "item",
@@ -120,7 +126,8 @@
                 "owner": "mac4n6",
                 "repo": "Presentations",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -142,7 +149,8 @@
                 "owner": "richiercyrus",
                 "repo": "Venator",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -160,9 +168,10 @@
             "last_commit": "2026-08-05T12:12:12Z",
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16242
+            "stars": 16250
           },
-          "title": "lynis"
+          "title": "lynis",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -177,7 +186,8 @@
             "repo": "system_policy",
             "stars": 33
           },
-          "title": "Legacy Exec History"
+          "title": "Legacy Exec History",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -192,7 +202,8 @@
             "repo": "pac4mac",
             "stars": 41
           },
-          "title": "Pac4Mac"
+          "title": "Pac4Mac",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -207,7 +218,8 @@
             "repo": "inception",
             "stars": 1602
           },
-          "title": "Inception"
+          "title": "Inception",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -222,7 +234,8 @@
             "repo": "volafox",
             "stars": 175
           },
-          "title": "Volafox"
+          "title": "Volafox",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -237,7 +250,8 @@
             "repo": "mac4n6",
             "stars": 346
           },
-          "title": "Mac4n6"
+          "title": "Mac4n6",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -252,7 +266,8 @@
             "repo": "osxcollector",
             "stars": 1894
           },
-          "title": "OSX Collector"
+          "title": "OSX Collector",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [
@@ -269,7 +284,8 @@
                 "owner": "ydkhatri",
                 "repo": "MacForensics",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -283,7 +299,8 @@
             "repo": "mac_apt",
             "stars": 1077
           },
-          "title": "mac-apt"
+          "title": "mac-apt",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Digital Forensics / Incident Response (DFIR)"
@@ -304,7 +321,8 @@
             "repo": "osx-re-101",
             "stars": 1729
           },
-          "title": "Collection of OSX reverse engineering resources"
+          "title": "Collection of OSX reverse engineering resources",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -319,7 +337,8 @@
             "repo": "darwin-xnu",
             "stars": 11267
           },
-          "title": "iOS Kernel source"
+          "title": "iOS Kernel source",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -332,9 +351,10 @@
             "last_commit": "2023-08-19T07:30:45Z",
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4514
+            "stars": 4513
           },
-          "title": "Awesome Reversing"
+          "title": "Awesome Reversing",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Reverse engineering"
@@ -355,7 +375,8 @@
             "repo": "presentations",
             "stars": 44
           },
-          "title": "Direct Memory Attack the Kernel"
+          "title": "Direct Memory Attack the Kernel",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -370,7 +391,8 @@
             "repo": "MyArticles",
             "stars": 871
           },
-          "title": "macOS/iOS Kernel Debugging and Heap Feng Shui"
+          "title": "macOS/iOS Kernel Debugging and Heap Feng Shui",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Presentations and Papers"
@@ -391,7 +413,8 @@
             "repo": "kernelcache-laundering",
             "stars": 60
           },
-          "title": "kernelcache laundering"
+          "title": "kernelcache laundering",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -406,7 +429,8 @@
             "repo": "blanket",
             "stars": 260
           },
-          "title": "blanket"
+          "title": "blanket",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -421,7 +445,8 @@
             "repo": "exploit_playground",
             "stars": 616
           },
-          "title": "Proof of Concept for Remote Code Execution in WebContent"
+          "title": "Proof of Concept for Remote Code Execution in WebContent",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [
@@ -438,7 +463,8 @@
                 "owner": "gkaindl",
                 "repo": "meltdown-poc",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -458,7 +484,8 @@
             "repo": "macOS-10.12.2-Exp-via-mach_voucher",
             "stars": 94
           },
-          "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui"
+          "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Virus and exploit writeups"
@@ -479,7 +506,8 @@
             "repo": "mac-ibm-enrollment-app",
             "stars": 449
           },
-          "title": "Mac@IBM"
+          "title": "Mac@IBM",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -494,7 +522,8 @@
             "repo": "mOSL",
             "stars": 220
           },
-          "title": "mOSL"
+          "title": "mOSL",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -504,12 +533,13 @@
             "archived": false,
             "id": 7077690,
             "language": "Objective-C",
-            "last_commit": "2026-08-22T17:45:35Z",
+            "last_commit": "2026-08-28T03:33:02Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13106
+            "stars": 13110
           },
-          "title": "Darling"
+          "title": "Darling",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -524,7 +554,8 @@
             "repo": "kemon",
             "stars": 398
           },
-          "title": "Kemon"
+          "title": "Kemon",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -539,7 +570,8 @@
             "repo": "jelbrekTime",
             "stars": 1
           },
-          "title": "jelbrektime"
+          "title": "jelbrektime",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [
@@ -556,7 +588,8 @@
                 "owner": "droe",
                 "repo": "xnumon",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -576,7 +609,8 @@
             "repo": "macos-are-you-really-signed",
             "stars": 7
           },
-          "title": "Are you really signed?"
+          "title": "Are you really signed?",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -591,7 +625,8 @@
             "repo": "security-growler",
             "stars": 873
           },
-          "title": "osx security growler"
+          "title": "osx security growler",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -606,7 +641,8 @@
             "repo": "mac-a-mal",
             "stars": 89
           },
-          "title": "mac-a-mal"
+          "title": "mac-a-mal",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -619,9 +655,10 @@
             "last_commit": "2023-01-20T13:52:28Z",
             "owner": "rentzsch",
             "repo": "jrswizzle",
-            "stars": 2644
+            "stars": 2646
           },
-          "title": "jrswizzle"
+          "title": "jrswizzle",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -636,7 +673,8 @@
             "repo": "MacDBG",
             "stars": 291
           },
-          "title": "MacDBG"
+          "title": "MacDBG",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -651,7 +689,8 @@
             "repo": "bitcode_retriever",
             "stars": 183
           },
-          "title": "bitcode_retriever"
+          "title": "bitcode_retriever",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -666,7 +705,8 @@
             "repo": "machotools",
             "stars": 2
           },
-          "title": "machotools"
+          "title": "machotools",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -681,7 +721,8 @@
             "repo": "onyx-the-black-cat",
             "stars": 23
           },
-          "title": "onyx-the-black-cat (outdated original)"
+          "title": "onyx-the-black-cat (outdated original)",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -696,7 +737,8 @@
             "repo": "create-dmg",
             "stars": 2618
           },
-          "title": "create-dmg"
+          "title": "create-dmg",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -711,7 +753,8 @@
             "repo": "homebrew-infosec",
             "stars": 12
           },
-          "title": "Infosec Homebrew"
+          "title": "Infosec Homebrew",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -724,9 +767,10 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30854
+            "stars": 30855
           },
-          "title": "Awesome OSX Command Line"
+          "title": "Awesome OSX Command Line",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -741,7 +785,8 @@
             "repo": "keychaindump",
             "stars": 512
           },
-          "title": "Keychain dump"
+          "title": "Keychain dump",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -756,7 +801,8 @@
             "repo": "symhash",
             "stars": 41
           },
-          "title": "Symhash"
+          "title": "Symhash",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -771,7 +817,8 @@
             "repo": "KisMac2",
             "stars": 918
           },
-          "title": "KisMac2"
+          "title": "KisMac2",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -786,7 +833,8 @@
             "repo": "PassiveFuzzFrameworkOSX",
             "stars": 229
           },
-          "title": "Passive fuzz framework"
+          "title": "Passive fuzz framework",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -801,7 +849,8 @@
             "repo": "createOSXinstallPkg",
             "stars": 318
           },
-          "title": "createOSXinstallPkg"
+          "title": "createOSXinstallPkg",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -816,7 +865,8 @@
             "repo": "poisontap",
             "stars": 6475
           },
-          "title": "PoisonTap"
+          "title": "PoisonTap",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -826,12 +876,13 @@
             "archived": false,
             "id": 17494082,
             "language": "Python",
-            "last_commit": "2026-08-26T23:07:42Z",
+            "last_commit": "2026-08-27T19:13:52Z",
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3295
           },
-          "title": "Chipsec"
+          "title": "Chipsec",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [
@@ -848,7 +899,8 @@
                 "owner": "gh2o",
                 "repo": "rvi_capture",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T13:51:06.580Z"
             }
           ],
           "description": null,
@@ -863,12 +915,13 @@
             "archived": false,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-26T04:57:41Z",
+            "last_commit": "2026-08-27T15:17:38Z",
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130
           },
-          "title": "Raccoon"
+          "title": "Raccoon",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -881,9 +934,10 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 144
+            "stars": 145
           },
-          "title": "Lockpaw"
+          "title": "Lockpaw",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Useful tools and guides"
@@ -904,7 +958,8 @@
             "repo": "EmPyre",
             "stars": 872
           },
-          "title": "Empyre"
+          "title": "Empyre",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -919,7 +974,8 @@
             "repo": "Bella",
             "stars": 11
           },
-          "title": "Bella"
+          "title": "Bella",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -934,7 +990,8 @@
             "repo": "pupy",
             "stars": 8999
           },
-          "title": "Pupy"
+          "title": "Pupy",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -949,7 +1006,8 @@
             "repo": "EggShell",
             "stars": 1768
           },
-          "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS"
+          "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         },
         {
           "children": [],
@@ -964,14 +1022,15 @@
             "repo": "EvilOSX",
             "stars": 2415
           },
-          "title": "EvilOSX - Pure python post-exploitation toolkit"
+          "title": "EvilOSX - Pure python post-exploitation toolkit",
+          "first_seen": "2026-08-28T13:51:06.580Z"
         }
       ],
       "title": "Remote Access Toolkits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:23:37.401Z",
+    "last_updated": "2026-08-28T13:51:06.580Z",
     "original_repository_info": {
       "archived": false,
       "id": 64573526,
@@ -979,7 +1038,7 @@
       "last_commit": "2026-06-27T22:16:28Z",
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 788
+      "stars": 790
     },
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
     "enhanced_repository": "enhansome/osx-security-enhansome",
