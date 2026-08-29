@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,734 | 🐛 105 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,250 | 🐛 219 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,252 | 🐛 219 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -202,7 +202,7 @@ A collection of OSX/iOS security related resources
 
 * Frequently updated book on OSX internals
 
-### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101) ⭐ 1,729 | 🐛 1 | 📅 2019-12-19
+### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101) ⭐ 1,730 | 🐛 1 | 📅 2019-12-19
 
 * Another Awesome-style list dedicated to OSX reverse engineering resources
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,110 | 🐛 398 | 🌐 Objective-C | 📅 2026-08-28
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,111 | 🐛 398 | 🌐 Objective-C | 📅 2026-08-28
 
 * Darwin/macOS emulation layer for Linux
 
@@ -563,9 +563,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * CLI for generating .pkg installers
 
-### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,475 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
+### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,476 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,295 | 🐛 44 | 🌐 Python | 📅 2026-08-27
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,296 | 🐛 44 | 🌐 Python | 📅 2026-08-27
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-27
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-08-28
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 145 | 🐛 5 | 🌐 Swift | 📅 2026-08-24
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 146 | 🐛 5 | 🌐 Swift | 📅 2026-08-24
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -652,8 +652,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,729 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,730 | 🐛 0 | 🌐 Shell | 📅 2026-08-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

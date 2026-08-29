@@ -9,12 +9,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Here you can find write ups for iOS Vulnerabilities that have been released.",
+            "homepage": null,
             "id": 136174312,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-05-17T06:25:57Z",
+            "open_issues": 5,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1101
+            "stars": 1101,
+            "topics": []
           },
           "title": "iOS vulnerability write-up",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -31,12 +36,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment",
+            "homepage": null,
             "id": 23080035,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-20T22:33:24Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "macops",
-            "stars": 823
+            "stars": 823,
+            "topics": []
           },
           "title": "macops",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -47,12 +57,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Mac EFI firmware",
+            "homepage": "http://efigy.io",
             "id": 103965116,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-12-17T21:38:56Z",
+            "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 508
+            "stars": 508,
+            "topics": [
+              "efi",
+              "firmware",
+              "macos",
+              "security"
+            ]
           },
           "title": "EFIgy",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -63,12 +83,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Reversing the Apple sandbox",
+            "homepage": null,
             "id": 113375448,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-24T08:53:20Z",
+            "open_issues": 6,
             "owner": "malus-security",
             "repo": "sandblaster",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "apple-sandbox",
+              "hacktoberfest",
+              "kernelcache",
+              "reverse-engineering",
+              "reverser",
+              "sandbox-filters",
+              "sandbox-profiles",
+              "sbpl",
+              "security"
+            ]
           },
           "title": "Sandblaster",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -79,12 +114,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Repository of Hardening Guides",
+            "homepage": null,
             "id": 66006321,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-20T06:40:00Z",
+            "open_issues": 2,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 653
+            "stars": 653,
+            "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -104,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apple Pattern of Life Lazy Output'er",
+                "homepage": null,
                 "id": 156101695,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-25T01:12:28Z",
+                "open_issues": 8,
                 "owner": "mac4n6",
                 "repo": "APOLLO",
-                "stars": 652
+                "stars": 652,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             },
@@ -120,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Presentation Archives for my macOS and iOS Related Research",
+                "homepage": null,
                 "id": 46201569,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-18T13:00:18Z",
+                "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -143,12 +193,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[⛔️ Deprecated] Venator is a python tool used to gather data for proactive detection of malicious activity on macOS devices.",
+                "homepage": null,
                 "id": 167731829,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-07-01T14:11:34Z",
+                "open_issues": 1,
                 "owner": "richiercyrus",
                 "repo": "Venator",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "deprecated",
+                  "detection",
+                  "macos",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -163,12 +223,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+            "homepage": "https://cisofy.com/lynis/",
             "id": 15078635,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T12:12:12Z",
+            "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16250
+            "stars": 16252,
+            "topics": [
+              "auditing",
+              "compliance",
+              "devops",
+              "devops-tools",
+              "gdpr",
+              "hardening",
+              "hipaa",
+              "linux",
+              "pci-dss",
+              "security-audit",
+              "security-hardening",
+              "security-scanner",
+              "security-tools",
+              "security-vulnerability",
+              "shell",
+              "system-hardening",
+              "unix",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "title": "lynis",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -179,12 +265,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "osquery table extension that allows querying of information from the macOS private SystemPolicy.framework",
+            "homepage": null,
             "id": 143947022,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2021-10-29T14:27:28Z",
+            "open_issues": 0,
             "owner": "knightsc",
             "repo": "system_policy",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "macadmins",
+              "macos",
+              "osquery"
+            ]
           },
           "title": "Legacy Exec History",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -195,12 +290,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automatically exported from code.google.com/p/pac4mac",
+            "homepage": null,
             "id": 36142296,
             "language": "C",
+            "license": null,
             "last_commit": "2019-03-04T17:01:16Z",
+            "open_issues": 1,
             "owner": "sud0man",
             "repo": "pac4mac",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "title": "Pac4Mac",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -211,12 +311,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.",
+            "homepage": null,
             "id": 1916708,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-13T09:40:01Z",
+            "open_issues": 23,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1602
+            "stars": 1602,
+            "topics": []
           },
           "title": "Inception",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -227,12 +332,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mac OS X Memory Analysis Toolkit",
+            "homepage": null,
             "id": 32310199,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2016-07-25T00:39:38Z",
+            "open_issues": 1,
             "owner": "n0fate",
             "repo": "volafox",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "title": "Volafox",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -243,12 +353,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Collection of forensics artifacts location for Mac OS X and iOS",
+            "homepage": null,
             "id": 32288372,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-11T10:59:21Z",
+            "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "title": "Mac4n6",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -259,12 +374,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "A forensic evidence collection & analysis toolkit for OS X",
+            "homepage": "http://yelp.github.io/osxcollector",
             "id": 22615096,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-19T15:40:49Z",
+            "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1894
+            "stars": 1894,
+            "topics": []
           },
           "title": "OSX Collector",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -278,12 +398,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts to process macOS forensic artifacts",
+                "homepage": "https://www.swiftforensics.com",
                 "id": 78084619,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-04T14:35:10Z",
+                "open_issues": 2,
                 "owner": "ydkhatri",
                 "repo": "MacForensics",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "forensics",
+                  "mac",
+                  "macos",
+                  "osx"
+                ]
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -292,12 +422,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "macOS (& ios) Artifact Parsing Tool",
+            "homepage": "https://swiftforensics.com",
             "id": 101311218,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:27:52Z",
+            "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077
+            "stars": 1077,
+            "topics": [
+              "dfir",
+              "forensics",
+              "macos"
+            ]
           },
           "title": "mac-apt",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -314,12 +453,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources for OSX/iOS reverse engineering.",
+            "homepage": null,
             "id": 39006326,
             "language": null,
+            "license": null,
             "last_commit": "2019-12-19T17:32:48Z",
+            "open_issues": 1,
             "owner": "michalmalik",
             "repo": "osx-re-101",
-            "stars": 1729
+            "stars": 1730,
+            "topics": []
           },
           "title": "Collection of OSX reverse engineering resources",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -330,12 +474,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu",
+            "homepage": "https://opensource.apple.com/",
             "id": 93205465,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-13T01:48:01Z",
+            "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11267
+            "stars": 11267,
+            "topics": [
+              "kernel"
+            ]
           },
           "title": "iOS Kernel source",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -346,12 +497,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome reversing resources",
+            "homepage": null,
             "id": 53292594,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
+            "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4513
+            "stars": 4513,
+            "topics": []
           },
           "title": "Awesome Reversing",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -368,12 +524,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Conference Presentations",
+            "homepage": null,
             "id": 65235494,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-17T18:14:40Z",
+            "open_issues": 0,
             "owner": "ufrisk",
             "repo": "presentations",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "title": "Direct Memory Attack the Kernel",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -384,12 +545,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "蒸米的文章（iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等）",
+            "homepage": null,
             "id": 63928870,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-08-12T06:05:05Z",
+            "open_issues": 4,
             "owner": "zhengmin1989",
             "repo": "MyArticles",
-            "stars": 871
+            "stars": 871,
+            "topics": []
           },
           "title": "macOS/iOS Kernel Debugging and Heap Feng Shui",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -406,12 +572,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "load iOS12 kernelcaches and PAC code in IDA",
+            "homepage": null,
             "id": 151061210,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-04T09:01:04Z",
+            "open_issues": 0,
             "owner": "Synacktiv-contrib",
             "repo": "kernelcache-laundering",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "title": "kernelcache laundering",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -422,12 +593,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
+            "homepage": null,
             "id": 122551718,
             "language": "C",
+            "license": null,
             "last_commit": "2018-11-13T00:26:18Z",
+            "open_issues": 3,
             "owner": "bazad",
             "repo": "blanket",
-            "stars": 260
+            "stars": 260,
+            "topics": []
           },
           "title": "blanket",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -438,12 +614,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Analysis of public exploits or my 1day exploits",
+            "homepage": null,
             "id": 134660336,
             "language": "C",
+            "license": null,
             "last_commit": "2020-10-01T06:48:00Z",
+            "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -457,12 +638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick PoC to try out the \"meltdown\" timing attack.",
+                "homepage": null,
                 "id": 116288842,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-01-06T15:29:38Z",
+                "open_issues": 4,
                 "owner": "gkaindl",
                 "repo": "meltdown-poc",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -477,12 +663,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Local Privilege Escalation for macOS 10.12.2 via mach_voucher and XNU port Feng Shui",
+            "homepage": null,
             "id": 83670182,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2019-02-21T07:49:36Z",
+            "open_issues": 4,
             "owner": "zhengmin1989",
             "repo": "macOS-10.12.2-Exp-via-mach_voucher",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "title": "Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -499,12 +690,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "The Mac@IBM enrollment app makes setting up macOS with Jamf Pro more intuitive for users and easier for IT. The application offers IT admins the ability to gather additional information about their users during setup, allows users to customize their enrollment by selecting apps or bundles of apps to install during setup, and provides users with next steps when enrollment is complete.",
+            "homepage": null,
             "id": 153515504,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-30T14:30:10Z",
+            "open_issues": 0,
             "owner": "IBM",
             "repo": "mac-ibm-enrollment-app",
-            "stars": 449
+            "stars": 449,
+            "topics": []
           },
           "title": "Mac@IBM",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -515,12 +711,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Bash script to audit and fix macOS Catalina (10.15.x) security settings",
+            "homepage": null,
             "id": 134957619,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-02-17T13:54:18Z",
+            "open_issues": 7,
             "owner": "0xmachos",
             "repo": "mOSL",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "bash",
+              "macos",
+              "macos-catalina",
+              "security-tools"
+            ]
           },
           "title": "mOSL",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -531,12 +737,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Darwin/macOS emulation layer for Linux",
+            "homepage": "http://www.darlinghq.org",
             "id": 7077690,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T03:33:02Z",
+            "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13110
+            "stars": 13111,
+            "topics": []
           },
           "title": "Darling",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -547,12 +758,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "An Open-Source Pre and Post Callback-Based Framework for macOS Kernel Monitoring.",
+            "homepage": null,
             "id": 143947987,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T08:09:59Z",
+            "open_issues": 3,
             "owner": "didi",
             "repo": "kemon",
-            "stars": 398
+            "stars": 398,
+            "topics": []
           },
           "title": "Kemon",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -563,12 +779,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An developer jailbreak for Apple watch S3 watchOS 4.1",
+            "homepage": null,
             "id": 143610581,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-08-05T06:37:02Z",
+            "open_issues": 0,
             "owner": "kai5263499",
             "repo": "jelbrekTime",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "title": "jelbrektime",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -582,12 +803,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "monitor macOS for malicious activity",
+                "homepage": "https://www.roe.ch/xnumon",
                 "id": 137413815,
                 "language": "C",
+                "license": "OSL-3.0",
                 "last_commit": "2025-02-05T13:18:20Z",
+                "open_issues": 13,
                 "owner": "droe",
                 "repo": "xnumon",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "agent",
+                  "endpoint-security",
+                  "macos",
+                  "process-monitoring",
+                  "security",
+                  "security-monitoring"
+                ]
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -602,12 +835,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 137188440,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-06-13T12:54:33Z",
+            "open_issues": 0,
             "owner": "Sentinel-One",
             "repo": "macos-are-you-really-signed",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "title": "Are you really signed?",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -618,12 +856,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.",
+            "homepage": null,
             "id": 11860214,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-06T01:03:12Z",
+            "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 873
+            "stars": 873,
+            "topics": [
+              "alerts",
+              "ids",
+              "logfile",
+              "mac",
+              "menubar",
+              "monitoring-tool",
+              "python",
+              "security",
+              "snitch"
+            ]
           },
           "title": "osx security growler",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -634,12 +887,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The current repository contains all the scripts needed to build kernel-mode mac-a-mal malicious activity hooking on macOS.",
+            "homepage": null,
             "id": 124896289,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2018-09-22T10:55:23Z",
+            "open_issues": 3,
             "owner": "phdphuc",
             "repo": "mac-a-mal",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "macos"
+            ]
           },
           "title": "mac-a-mal",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -650,12 +910,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "one-stop-shop for all your method swizzling needs",
+            "homepage": null,
             "id": 172460,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-01-20T13:52:28Z",
+            "open_issues": 12,
             "owner": "rentzsch",
             "repo": "jrswizzle",
-            "stars": 2646
+            "stars": 2646,
+            "topics": []
           },
           "title": "jrswizzle",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -666,12 +931,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simple easy to use C and python debugging framework for OSX",
+            "homepage": null,
             "id": 49774773,
             "language": "C",
+            "license": null,
             "last_commit": "2016-05-04T18:57:20Z",
+            "open_issues": 1,
             "owner": "blankwall",
             "repo": "MacDBG",
-            "stars": 291
+            "stars": 291,
+            "topics": []
           },
           "title": "MacDBG",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -682,12 +952,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Retrieves Bitcode from Mach-O binaries",
+            "homepage": null,
             "id": 39974586,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-09-26T08:40:01Z",
+            "open_issues": 2,
             "owner": "AlexDenisov",
             "repo": "bitcode_retriever",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "bitcode",
+              "mach-o"
+            ]
           },
           "title": "bitcode_retriever",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -698,12 +976,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Default Repo description from terraform module",
+            "homepage": null,
             "id": 8143738,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-06T02:07:13Z",
+            "open_issues": 7,
             "owner": "enthought",
             "repo": "machotools",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "title": "machotools",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -714,12 +997,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Kernel extension to disable anti-debug tricks and other useful XNU \"features\"",
+            "homepage": null,
             "id": 41740163,
             "language": "C",
+            "license": null,
             "last_commit": "2020-12-08T19:44:26Z",
+            "open_issues": 0,
             "owner": "acidanthera",
             "repo": "onyx-the-black-cat",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "title": "onyx-the-black-cat (outdated original)",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -730,12 +1018,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A shell script to build fancy DMGs",
+            "homepage": null,
             "id": 50746,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-02T10:47:56Z",
+            "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2618
+            "stars": 2618,
+            "topics": [
+              "bash",
+              "dmg",
+              "macos"
+            ]
           },
           "title": "create-dmg",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -746,12 +1043,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Homebrew packages for information security tasks",
+            "homepage": null,
             "id": 64414903,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2016-09-24T17:17:23Z",
+            "open_issues": 0,
             "owner": "kai5263499",
             "repo": "homebrew-infosec",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "title": "Infosec Homebrew",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -762,12 +1064,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Use your macOS terminal shell to do awesome things.",
+            "homepage": null,
             "id": 42956467,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T11:01:49Z",
+            "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30855
+            "stars": 30856,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "macos",
+              "macosx",
+              "shell",
+              "terminal"
+            ]
           },
           "title": "Awesome OSX Command Line",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -778,12 +1093,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A proof-of-concept tool for reading OS X keychain passwords",
+            "homepage": null,
             "id": 5684107,
             "language": "C",
+            "license": null,
             "last_commit": "2019-03-11T01:47:42Z",
+            "open_issues": 11,
             "owner": "juuso",
             "repo": "keychaindump",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "title": "Keychain dump",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -794,12 +1114,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 65740390,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-22T23:18:25Z",
+            "open_issues": 3,
             "owner": "threatstream",
             "repo": "symhash",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "title": "Symhash",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -810,12 +1135,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.",
+            "homepage": "http://igrsoft.com",
             "id": 5930892,
             "language": "Objective-C",
+            "license": "GPL-2.0",
             "last_commit": "2018-08-28T15:47:40Z",
+            "open_issues": 34,
             "owner": "IGRSoft",
             "repo": "KisMac2",
-            "stars": 918
+            "stars": 918,
+            "topics": []
           },
           "title": "KisMac2",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -826,12 +1156,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "This framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.",
+            "homepage": null,
             "id": 71976500,
             "language": "C",
+            "license": null,
             "last_commit": "2017-10-18T10:29:47Z",
+            "open_issues": 1,
             "owner": "SilverMoonSecurity",
             "repo": "PassiveFuzzFrameworkOSX",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "title": "Passive fuzz framework",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -842,12 +1177,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Tools for packaging OS X installers",
+            "homepage": null,
             "id": 24218803,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-03T14:20:28Z",
+            "open_issues": 8,
             "owner": "munki",
             "repo": "createOSXinstallPkg",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "title": "createOSXinstallPkg",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -858,12 +1198,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.",
+            "homepage": "https://samy.pl/poisontap/",
             "id": 73915307,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-26T16:50:44Z",
+            "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6475
+            "stars": 6476,
+            "topics": []
           },
           "title": "PoisonTap",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -874,12 +1219,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Platform Security Assessment Framework",
+            "homepage": null,
             "id": 17494082,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T19:13:52Z",
+            "open_issues": 44,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3295
+            "stars": 3296,
+            "topics": [
+              "firmware",
+              "firmware-security",
+              "firmware-tools",
+              "security",
+              "security-tools"
+            ]
           },
           "title": "Chipsec",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -893,12 +1249,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rvictl for Linux and Windows: capture packets sent/received by iOS devices",
+                "homepage": null,
                 "id": 103056218,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-26T00:49:04Z",
+                "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "ios",
+                  "iphone",
+                  "packet-capture",
+                  "packet-sniffer",
+                  "python3",
+                  "rvictl",
+                  "wireshark"
+                ]
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
             }
@@ -913,12 +1282,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "macOS companion toolkit for power users",
+            "homepage": null,
             "id": 1222452390,
             "language": "Shell",
-            "last_commit": "2026-08-27T15:17:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:45:59Z",
+            "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "bash",
+              "cli",
+              "developer-tools",
+              "fleet-management",
+              "macos",
+              "security",
+              "security-audit",
+              "shell",
+              "ssh",
+              "sysadmin",
+              "tui"
+            ]
           },
           "title": "Raccoon",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -929,12 +1315,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+            "homepage": "https://getlockpaw.com",
             "id": 1186242047,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:34Z",
+            "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 145
+            "stars": 146,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "developer-tools",
+              "hotkey",
+              "macos",
+              "macos-app",
+              "menubar",
+              "open-source",
+              "privacy",
+              "screen-lock",
+              "screen-privacy",
+              "security",
+              "swift",
+              "swiftui",
+              "touch-id",
+              "utilities"
+            ]
           },
           "title": "Lockpaw",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -951,12 +1359,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "A post-exploitation OS X/Linux agent written in Python 2.7",
+            "homepage": null,
             "id": 52812449,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-08-24T00:08:41Z",
+            "open_issues": 7,
             "owner": "EmpireProject",
             "repo": "EmPyre",
-            "stars": 872
+            "stars": 872,
+            "topics": []
           },
           "title": "Empyre",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -967,12 +1380,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A pure python, post-exploitation, data mining tool and remote administration tool for macOS.  🍎💻",
+            "homepage": null,
             "id": 83510506,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-02-22T15:37:35Z",
+            "open_issues": 0,
             "owner": "kai5263499",
             "repo": "Bella",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "Bella",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -983,12 +1401,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C",
+            "homepage": null,
             "id": 42882329,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-22T08:52:53Z",
+            "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999
+            "stars": 8999,
+            "topics": [
+              "android",
+              "backdoor",
+              "linux",
+              "mac-os",
+              "meterpreter",
+              "payload",
+              "pentesting",
+              "post-exploitation",
+              "pupy",
+              "python",
+              "rat",
+              "reflective-injection",
+              "remote-access",
+              "remote-admin-tool",
+              "reverse-shell",
+              "shell",
+              "windows"
+            ]
           },
           "title": "Pupy",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -999,12 +1440,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "iOS/macOS/Linux Remote Administration Tool",
+            "homepage": null,
             "id": 38445459,
             "language": "Objective-C",
+            "license": "GPL-2.0",
             "last_commit": "2021-03-25T22:04:52Z",
+            "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1768
+            "stars": 1768,
+            "topics": [
+              "exploitation",
+              "information-security",
+              "ios",
+              "jailbreak",
+              "macos",
+              "metasploit",
+              "meterpreter",
+              "pentest-scripts",
+              "pentest-tool",
+              "remote-admin-tool",
+              "reverse-shell"
+            ]
           },
           "title": "EggShell surveillance tool - Works on OSX and jailbroken iOS",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -1015,12 +1473,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An evil RAT (Remote Administration Tool) for macOS / OS X.",
+            "homepage": null,
             "id": 121546909,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-10T15:02:53Z",
+            "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2415
+            "stars": 2415,
+            "topics": [
+              "backdoor",
+              "mac",
+              "macos",
+              "macosx",
+              "osx",
+              "pentesting",
+              "post-exploitation",
+              "python",
+              "python3",
+              "rat",
+              "reverse-shell"
+            ]
           },
           "title": "EvilOSX - Pure python post-exploitation toolkit",
           "first_seen": "2026-08-28T13:51:06.580Z"
@@ -1030,15 +1505,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:51:06.580Z",
+    "last_updated": "2026-08-29T04:37:01.226Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of OSX and iOS security resources",
+      "homepage": null,
       "id": 64573526,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-06-27T22:16:28Z",
+      "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 790
+      "stars": 790,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacking-mac",
+        "mac-osx",
+        "malware",
+        "osx-incident-response",
+        "osx-security"
+      ]
     },
     "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
     "enhanced_repository": "enhansome/osx-security-enhansome",
