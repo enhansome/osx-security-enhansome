@@ -232,7 +232,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16252,
+            "stars": 16256,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1077,
+            "stars": 1079,
             "topics": [
               "dfir",
               "forensics",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11267,
+            "stars": 11268,
             "topics": [
               "kernel"
             ]
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30856,
+            "stars": 30859,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1228,7 +1228,7 @@
             "open_issues": 44,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3296,
+            "stars": 3297,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "android",
               "backdoor",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:40:31.338Z",
+    "last_updated": "2026-08-30T07:56:48.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
