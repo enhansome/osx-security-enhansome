@@ -232,7 +232,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16256,
+            "stars": 16261,
             "topics": [
               "auditing",
               "compliance",
@@ -462,7 +462,7 @@
             "open_issues": 1,
             "owner": "michalmalik",
             "repo": "osx-re-101",
-            "stars": 1730,
+            "stars": 1731,
             "topics": []
           },
           "title": "Collection of OSX reverse engineering resources",
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4513,
+            "stars": 4516,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T03:33:02Z",
-            "open_issues": 398,
+            "last_commit": "2026-08-30T23:42:36Z",
+            "open_issues": 397,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13111,
+            "stars": 13112,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30859,
+            "stars": 30862,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476,
+            "stars": 6477,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-27T19:13:52Z",
-            "open_issues": 44,
+            "last_commit": "2026-08-31T01:07:34Z",
+            "open_issues": 47,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3297,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:45:59Z",
+            "last_commit": "2026-08-30T22:53:54Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1768,
+            "stars": 1769,
             "topics": [
               "exploitation",
               "information-security",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2415,
+            "stars": 2416,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:56:48.323Z",
+    "last_updated": "2026-08-31T08:10:32.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
