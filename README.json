@@ -232,7 +232,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16261,
+            "stars": 16262,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11268,
+            "stars": 11266,
             "topics": [
               "kernel"
             ]
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-08-30T23:42:36Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13112,
+            "stars": 13203,
             "topics": []
           },
           "title": "Darling",
@@ -919,7 +919,7 @@
             "open_issues": 12,
             "owner": "rentzsch",
             "repo": "jrswizzle",
-            "stars": 2646,
+            "stars": 2645,
             "topics": []
           },
           "title": "jrswizzle",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30862,
+            "stars": 30863,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1144,7 +1144,7 @@
             "open_issues": 34,
             "owner": "IGRSoft",
             "repo": "KisMac2",
-            "stars": 918,
+            "stars": 917,
             "topics": []
           },
           "title": "KisMac2",
@@ -1225,7 +1225,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-08-31T01:07:34Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3297,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T22:53:54Z",
+            "last_commit": "2026-09-01T02:42:05Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:10:32.395Z",
+    "last_updated": "2026-09-01T07:21:34.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1517,7 +1517,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 790,
+      "stars": 791,
       "topics": [
         "awesome",
         "awesome-list",
