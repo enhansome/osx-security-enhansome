@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-08-05T12:12:12Z",
-            "open_issues": 219,
+            "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16262,
+            "stars": 16267,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11266,
+            "stars": 11265,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4516,
+            "stars": 4517,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 616,
+            "stars": 615,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -746,7 +746,7 @@
             "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13203,
+            "stars": 13281,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2618,
+            "stars": 2621,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30863,
+            "stars": 30867,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,11 +1224,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T01:07:34Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-02T01:06:12Z",
+            "open_issues": 52,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3297,
+            "stars": 3298,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,8 +1287,8 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T02:42:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-02T02:29:14Z",
+            "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
             "stars": 130,
@@ -1324,7 +1324,7 @@
             "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 8999,
             "topics": [
               "android",
               "backdoor",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:21:34.155Z",
+    "last_updated": "2026-09-02T06:51:22.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
