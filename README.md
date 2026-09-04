@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,495 | 🐛 105 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,795 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -104,7 +104,7 @@ A collection of OSX/iOS security related resources
 * Reversing the Apple sandbox
 * [Paper](https://arxiv.org/pdf/1608.04303.pdf)
 
-### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 2 | 📅 2026-08-20
+### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 652 | 🐛 2 | 📅 2026-08-20
 
 * Hardening guide for El Capitan
 
@@ -126,7 +126,7 @@ A collection of OSX/iOS security related resources
 
 ### APOLLO tool
 
-* [Source code](https://github.com/mac4n6/APOLLO) ⭐ 652 | 🐛 8 | 🌐 Python | 📅 2024-02-25
+* [Source code](https://github.com/mac4n6/APOLLO) ⭐ 651 | 🐛 8 | 🌐 Python | 📅 2024-02-25
 * [Presentation slides](https://github.com/mac4n6/Presentations/blob/master/LaunchingAPOLLO/LaunchingAPOLLO.pdf) ⭐ 266 | 🐛 0 | 📅 2025-03-18
 * Python tool for advanced forensics analysis
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,274 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,282 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -191,7 +191,7 @@ A collection of OSX/iOS security related resources
 
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
-### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,079 | 🐛 8 | 🌐 Python | 📅 2026-08-21
+### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,080 | 🐛 8 | 🌐 Python | 📅 2026-08-21
 
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 213 | 🐛 2 | 🌐 Python | 📅 2024-08-04
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,299 | 🐛 399 | 🌐 Objective-C | 📅 2026-08-30
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,302 | 🐛 399 | 🌐 Objective-C | 📅 2026-08-30
 
 * Darwin/macOS emulation layer for Linux
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-02
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-03
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 147 | 🐛 5 | 🌐 Swift | 📅 2026-08-24
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 148 | 🐛 5 | 🌐 Swift | 📅 2026-08-24
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -633,7 +633,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Pupy](https://github.com/n1nj4sec/pupy) ⚠️ Archived
 
-### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,769 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
+### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,770 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
 ### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,416 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
@@ -652,8 +652,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,731 | 🐛 0 | 🌐 Shell | 📅 2026-09-02
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,732 | 🐛 0 | 🌐 Shell | 📅 2026-09-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
