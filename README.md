@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,795 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,094 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,282 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,286 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -191,7 +191,7 @@ A collection of OSX/iOS security related resources
 
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
-### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,080 | 🐛 8 | 🌐 Python | 📅 2026-08-21
+### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,081 | 🐛 8 | 🌐 Python | 📅 2026-08-21
 
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 213 | 🐛 2 | 🌐 Python | 📅 2024-08-04
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
@@ -300,7 +300,7 @@ A collection of OSX/iOS security related resources
 
 ### [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 
-### [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf) ⭐ 871 | 🐛 4 | 🌐 HTML | 📅 2021-08-12
+### [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf) ⭐ 872 | 🐛 4 | 🌐 HTML | 📅 2021-08-12
 
 ### [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,302 | 🐛 399 | 🌐 Objective-C | 📅 2026-08-30
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,312 | 🐛 399 | 🌐 Objective-C | 📅 2026-08-30
 
 * Darwin/macOS emulation layer for Linux
 
@@ -563,9 +563,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * CLI for generating .pkg installers
 
-### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,476 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
+### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,475 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,298 | 🐛 50 | 🌐 Python | 📅 2026-09-02
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,299 | 🐛 50 | 🌐 Python | 📅 2026-09-02
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-03
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-05
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

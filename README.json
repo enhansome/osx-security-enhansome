@@ -232,7 +232,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16282,
+            "stars": 16286,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "dfir",
               "forensics",
@@ -554,7 +554,7 @@
             "open_issues": 4,
             "owner": "zhengmin1989",
             "repo": "MyArticles",
-            "stars": 871,
+            "stars": 872,
             "topics": []
           },
           "title": "macOS/iOS Kernel Debugging and Heap Feng Shui",
@@ -746,7 +746,7 @@
             "open_issues": 399,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13302,
+            "stars": 13312,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30874,
+            "stars": 30877,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476,
+            "stars": 6475,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1228,7 +1228,7 @@
             "open_issues": 50,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3298,
+            "stars": 3299,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:57:53Z",
+            "last_commit": "2026-09-05T01:07:51Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:58:53.103Z",
+    "last_updated": "2026-09-05T06:43:15.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
