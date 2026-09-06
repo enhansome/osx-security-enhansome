@@ -232,7 +232,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16286,
+            "stars": 16292,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11264,
+            "stars": 11265,
             "topics": [
               "kernel"
             ]
@@ -746,7 +746,7 @@
             "open_issues": 399,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13312,
+            "stars": 13322,
             "topics": []
           },
           "title": "Darling",
@@ -919,7 +919,7 @@
             "open_issues": 12,
             "owner": "rentzsch",
             "repo": "jrswizzle",
-            "stars": 2644,
+            "stars": 2643,
             "topics": []
           },
           "title": "jrswizzle",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2623,
+            "stars": 2625,
             "topics": [
               "bash",
               "dmg",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:07:51Z",
+            "last_commit": "2026-09-05T08:22:53Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "exploitation",
               "information-security",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:43:15.171Z",
+    "last_updated": "2026-09-06T06:53:52.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
