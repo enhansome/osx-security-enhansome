@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,397 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,759 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,292 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,297 | 🐛 221 | 🌐 Shell | 📅 2026-08-05
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -327,7 +327,7 @@ A collection of OSX/iOS security related resources
 
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 
-### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js) ⭐ 615 | 🐛 2 | 🌐 C | 📅 2020-10-01
+### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js) ⭐ 616 | 🐛 2 | 🌐 C | 📅 2020-10-01
 
 * [MachO tricks](https://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,322 | 🐛 399 | 🌐 Objective-C | 📅 2026-08-30
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,326 | 🐛 397 | 🌐 Objective-C | 📅 2026-09-06
 
 * Darwin/macOS emulation layer for Linux
 
@@ -483,7 +483,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Utility to test for code-sign bypass vulnerability
 
-### [osx security growler](https://github.com/pirate/security-growler) ⭐ 873 | 🐛 1 | 🌐 Python | 📅 2025-12-06
+### [osx security growler](https://github.com/pirate/security-growler) ⭐ 872 | 🐛 1 | 🌐 Python | 📅 2025-12-06
 
 * Mac menubar item that lets you know about security events on your system
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,625 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,626 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-05
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-06
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 148 | 🐛 5 | 🌐 Swift | 📅 2026-08-24
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2026-09-06
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

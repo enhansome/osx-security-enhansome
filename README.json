@@ -232,7 +232,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16292,
+            "stars": 16297,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11265,
+            "stars": 11266,
             "topics": [
               "kernel"
             ]
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T23:42:36Z",
-            "open_issues": 399,
+            "last_commit": "2026-09-06T18:24:21Z",
+            "open_issues": 397,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13322,
+            "stars": 13326,
             "topics": []
           },
           "title": "Darling",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 873,
+            "stars": 872,
             "topics": [
               "alerts",
               "ids",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2625,
+            "stars": 2626,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30877,
+            "stars": 30883,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:22:53Z",
+            "last_commit": "2026-09-06T08:41:36Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,8 +1320,8 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-24T08:59:34Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-06T13:11:37Z",
+            "open_issues": 3,
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 148,
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:53:52.368Z",
+    "last_updated": "2026-09-07T07:03:23.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
