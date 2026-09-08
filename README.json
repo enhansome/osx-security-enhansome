@@ -232,7 +232,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16297,
+            "stars": 16302,
             "topics": [
               "auditing",
               "compliance",
@@ -746,7 +746,7 @@
             "open_issues": 397,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13326,
+            "stars": 13336,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2626,
+            "stars": 2627,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30883,
+            "stars": 30885,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1320,7 +1320,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:11:37Z",
+            "last_commit": "2026-09-08T06:53:55Z",
             "open_issues": 3,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8998,
+            "stars": 8999,
             "topics": [
               "android",
               "backdoor",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:03:23.783Z",
+    "last_updated": "2026-09-08T06:57:49.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
