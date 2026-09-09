@@ -228,11 +228,11 @@
             "id": 15078635,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-05T12:12:12Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-09T06:55:16Z",
+            "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16302,
+            "stars": 16304,
             "topics": [
               "auditing",
               "compliance",
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-06T18:24:21Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13336,
+            "stars": 13340,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30885,
+            "stars": 30894,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6475,
+            "stars": 6474,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-06T08:41:36Z",
+            "last_commit": "2026-09-08T22:42:43Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,8 +1320,8 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-08T06:53:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-09T07:06:50Z",
+            "open_issues": 1,
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 148,
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "android",
               "backdoor",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:57:49.385Z",
+    "last_updated": "2026-09-09T07:07:14.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1517,7 +1517,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 791,
+      "stars": 792,
       "topics": [
         "awesome",
         "awesome-list",
