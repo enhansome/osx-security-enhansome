@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,621 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,944 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -104,7 +104,7 @@ A collection of OSX/iOS security related resources
 * Reversing the Apple sandbox
 * [Paper](https://arxiv.org/pdf/1608.04303.pdf)
 
-### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 2 | 📅 2026-08-20
+### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 2 | 📅 2026-09-10
 
 * Hardening guide for El Capitan
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,308 | 🐛 219 | 🌐 Shell | 📅 2026-09-09
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,315 | 🐛 219 | 🌐 Shell | 📅 2026-09-09
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -157,7 +157,7 @@ A collection of OSX/iOS security related resources
 
 * Forensics framework
 
-### [Inception](https://github.com/carmaa/inception) ⭐ 1,602 | 🐛 23 | 🌐 Python | 📅 2025-06-13
+### [Inception](https://github.com/carmaa/inception) ⭐ 1,603 | 🐛 23 | 🌐 Python | 📅 2025-06-13
 
 * Physical memory manipulation
 
@@ -191,7 +191,7 @@ A collection of OSX/iOS security related resources
 
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
-### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,081 | 🐛 8 | 🌐 Python | 📅 2026-08-21
+### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,081 | 🐛 9 | 🌐 Python | 📅 2026-08-21
 
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 213 | 🐛 2 | 🌐 Python | 📅 2024-08-04
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-09
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-10
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -635,7 +635,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,771 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
-### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,417 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
+### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,418 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

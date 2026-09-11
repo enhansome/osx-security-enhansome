@@ -119,7 +119,7 @@
             "id": 66006321,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-20T06:40:00Z",
+            "last_commit": "2026-09-10T11:24:22Z",
             "open_issues": 2,
             "owner": "ernw",
             "repo": "hardening",
@@ -232,7 +232,7 @@
             "open_issues": 219,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16308,
+            "stars": 16315,
             "topics": [
               "auditing",
               "compliance",
@@ -320,7 +320,7 @@
             "open_issues": 23,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1602,
+            "stars": 1603,
             "topics": []
           },
           "title": "Inception",
@@ -428,7 +428,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-21T23:27:52Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
             "stars": 1081,
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30896,
+            "stars": 30899,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T08:59:33Z",
+            "last_commit": "2026-09-10T08:58:35Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 9001,
             "topics": [
               "android",
               "backdoor",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2417,
+            "stars": 2418,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:03:14.644Z",
+    "last_updated": "2026-09-11T07:02:37.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
