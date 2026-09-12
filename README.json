@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1102,
+            "stars": 1103,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T06:55:16Z",
-            "open_issues": 219,
+            "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16315,
+            "stars": 16318,
             "topics": [
               "auditing",
               "compliance",
@@ -320,7 +320,7 @@
             "open_issues": 23,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1603,
+            "stars": 1604,
             "topics": []
           },
           "title": "Inception",
@@ -746,7 +746,7 @@
             "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13343,
+            "stars": 13345,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2624,
+            "stars": 2623,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30899,
+            "stars": 30902,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T01:02:57Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-12T04:15:27Z",
+            "open_issues": 49,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3299,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:58:35Z",
+            "last_commit": "2026-09-11T08:56:33Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1771,
+            "stars": 1770,
             "topics": [
               "exploitation",
               "information-security",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:02:37.142Z",
+    "last_updated": "2026-09-12T06:55:46.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
