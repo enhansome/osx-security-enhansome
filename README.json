@@ -232,7 +232,7 @@
             "open_issues": 221,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16318,
+            "stars": 16322,
             "topics": [
               "auditing",
               "compliance",
@@ -320,7 +320,7 @@
             "open_issues": 23,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1604,
+            "stars": 1603,
             "topics": []
           },
           "title": "Inception",
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1081,
+            "stars": 1083,
             "topics": [
               "dfir",
               "forensics",
@@ -746,7 +746,7 @@
             "open_issues": 398,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13345,
+            "stars": 13348,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2623,
+            "stars": 2624,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30902,
+            "stars": 30906,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:56:33Z",
+            "last_commit": "2026-09-12T08:39:45Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1324,7 +1324,7 @@
             "open_issues": 1,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "exploitation",
               "information-security",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2418,
+            "stars": 2419,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:55:46.387Z",
+    "last_updated": "2026-09-13T07:13:22.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
