@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,539 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,868 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,322 | 🐛 221 | 🌐 Shell | 📅 2026-09-09
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,324 | 🐛 222 | 🌐 Shell | 📅 2026-09-09
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -323,7 +323,7 @@ A collection of OSX/iOS security related resources
 
 * Load iOS12 kernelcaches and PAC code in IDA
 
-### [blanket](https://github.com/bazad/blanket) ⭐ 261 | 🐛 3 | 🌐 C | 📅 2018-11-13
+### [blanket](https://github.com/bazad/blanket) ⭐ 262 | 🐛 3 | 🌐 C | 📅 2018-11-13
 
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,348 | 🐛 398 | 🌐 Objective-C | 📅 2026-09-06
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,349 | 🐛 402 | 🌐 Objective-C | 📅 2026-09-06
 
 * Darwin/macOS emulation layer for Linux
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,624 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,625 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -563,9 +563,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * CLI for generating .pkg installers
 
-### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,474 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
+### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,476 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,299 | 🐛 49 | 🌐 Python | 📅 2026-09-12
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,300 | 🐛 52 | 🌐 Python | 📅 2026-09-14
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-12
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-13
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -652,8 +652,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,736 | 🐛 1 | 🌐 Shell | 📅 2026-09-02
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,736 | 🐛 0 | 🌐 Shell | 📅 2026-09-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
