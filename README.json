@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 653,
+            "stars": 654,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T06:55:16Z",
-            "open_issues": 222,
+            "open_issues": 224,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16324,
+            "stars": 16335,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11265,
+            "stars": 11264,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4517,
+            "stars": 4516,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -746,7 +746,7 @@
             "open_issues": 402,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13349,
+            "stars": 13350,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2625,
+            "stars": 2623,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30911,
+            "stars": 30916,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476,
+            "stars": 6475,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-14T01:07:07Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-15T00:05:37Z",
+            "open_issues": 48,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3300,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-13T09:36:59Z",
+            "last_commit": "2026-09-14T09:55:24Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,11 +1320,11 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-09T07:07:55Z",
+            "last_commit": "2026-09-15T05:42:04Z",
             "open_issues": 1,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 151,
+            "stars": 153,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:36:56.982Z",
+    "last_updated": "2026-09-15T07:15:23.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
