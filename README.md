@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,891 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,257 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,352 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,356 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -202,7 +202,7 @@ A collection of OSX/iOS security related resources
 
 * Frequently updated book on OSX internals
 
-### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101) ⭐ 1,732 | 🐛 1 | 📅 2019-12-19
+### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101) ⭐ 1,731 | 🐛 1 | 📅 2019-12-19
 
 * Another Awesome-style list dedicated to OSX reverse engineering resources
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,357 | 🐛 402 | 🌐 Objective-C | 📅 2026-09-06
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,359 | 🐛 403 | 🌐 Objective-C | 📅 2026-09-06
 
 * Darwin/macOS emulation layer for Linux
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,622 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,623 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-16
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-17
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -652,8 +652,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,737 | 🐛 0 | 🌐 Shell | 📅 2026-09-15
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,738 | 🐛 0 | 🌐 Shell | 📅 2026-09-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
