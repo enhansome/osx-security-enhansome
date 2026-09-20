@@ -18,7 +18,7 @@
             "open_issues": 5,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1102,
+            "stars": 1103,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4519,
+            "stars": 4520,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -746,7 +746,7 @@
             "open_issues": 404,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13362,
+            "stars": 13366,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2624,
+            "stars": 2630,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30924,
+            "stars": 30925,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6475,
+            "stars": 6476,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1225,10 +1225,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-18T23:56:47Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3300,
+            "stars": 3302,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:01:47Z",
+            "last_commit": "2026-09-19T08:49:51Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:04:46.275Z",
+    "last_updated": "2026-09-20T07:29:44.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",

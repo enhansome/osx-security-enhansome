@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,615 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,961 | 🐛 106 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -36,7 +36,7 @@ A collection of OSX/iOS security related resources
 
 * The Story of CVE-2018-4184 or how a vulnearbility in OSX's Speech system allowed apps with access to the microphone to escape sandbox restrictions
 
-### [iOS vulnerability write-up](https://github.com/writeups/iOS) ⭐ 1,102 | 🐛 5 | 🌐 Shell | 📅 2022-05-17
+### [iOS vulnerability write-up](https://github.com/writeups/iOS) ⭐ 1,103 | 🐛 5 | 🌐 Shell | 📅 2022-05-17
 
 * A repository of iOS vulnerability write-ups as they are released
 * Also includes conference papers
@@ -226,7 +226,7 @@ A collection of OSX/iOS security related resources
 
 * Very good list of various crackme challenges that is categorized by level and OS
 
-### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,519 | 🐛 18 | 📅 2023-08-19
+### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,520 | 🐛 18 | 📅 2023-08-19
 
 * Awesome list dedicated to reversing
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,362 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,366 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
 
 * Darwin/macOS emulation layer for Linux
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,624 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,630 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -563,9 +563,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * CLI for generating .pkg installers
 
-### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,475 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
+### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,476 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,300 | 🐛 39 | 🌐 Python | 📅 2026-09-18
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,302 | 🐛 40 | 🌐 Python | 📅 2026-09-18
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-18
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-09-19
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -635,7 +635,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,770 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
-### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,416 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
+### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,417 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
