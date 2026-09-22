@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16364,
+            "stars": 16363,
             "topics": [
               "auditing",
               "compliance",
@@ -383,7 +383,7 @@
             "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1894,
+            "stars": 1891,
             "topics": []
           },
           "title": "OSX Collector",
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "dfir",
               "forensics",
@@ -720,7 +720,7 @@
             "open_issues": 7,
             "owner": "0xmachos",
             "repo": "mOSL",
-            "stars": 220,
+            "stars": 219,
             "topics": [
               "bash",
               "macos",
@@ -746,7 +746,7 @@
             "open_issues": 404,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13372,
+            "stars": 13375,
             "topics": []
           },
           "title": "Darling",
@@ -812,7 +812,7 @@
                 "open_issues": 13,
                 "owner": "droe",
                 "repo": "xnumon",
-                "stars": 235,
+                "stars": 234,
                 "topics": [
                   "agent",
                   "endpoint-security",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 872,
+            "stars": 871,
             "topics": [
               "alerts",
               "ids",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2633,
+            "stars": 2635,
             "topics": [
               "bash",
               "dmg",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476,
+            "stars": 6475,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-21T01:07:02Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-22T01:03:58Z",
+            "open_issues": 41,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3303,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-20T09:18:59Z",
+            "last_commit": "2026-09-21T09:59:22Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9001,
+            "stars": 9000,
             "topics": [
               "android",
               "backdoor",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "exploitation",
               "information-security",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:41:01.163Z",
+    "last_updated": "2026-09-22T07:22:50.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1517,7 +1517,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 792,
+      "stars": 791,
       "topics": [
         "awesome",
         "awesome-list",
