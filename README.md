@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,600 | 🐛 107 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,106 | 🐛 107 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -36,7 +36,7 @@ A collection of OSX/iOS security related resources
 
 * The Story of CVE-2018-4184 or how a vulnearbility in OSX's Speech system allowed apps with access to the microphone to escape sandbox restrictions
 
-### [iOS vulnerability write-up](https://github.com/writeups/iOS) ⭐ 1,103 | 🐛 5 | 🌐 Shell | 📅 2022-05-17
+### [iOS vulnerability write-up](https://github.com/writeups/iOS) ⭐ 1,103 | 🐛 6 | 🌐 Shell | 📅 2022-05-17
 
 * A repository of iOS vulnerability write-ups as they are released
 * Also includes conference papers
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,381 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,385 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,395 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,399 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
 
 * Darwin/macOS emulation layer for Linux
 
@@ -589,7 +589,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Remote Packet Capture for iOS Devices](https://useyourloaf.com/blog/remote-packet-capture-for-ios-devices/)
 
-* [Another python utility](https://github.com/gh2o/rvi_capture) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2024-03-26
+* [Another python utility](https://github.com/gh2o/rvi_capture) ⭐ 215 | 🐛 2 | 🌐 Python | 📅 2024-03-26
 * Use a remote virtual interface to capture packets from a tethered iOS device
 * [Python utility](https://thrysoee.dk/iospcap/)
 
@@ -656,4 +656,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

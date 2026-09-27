@@ -15,7 +15,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2022-05-17T06:25:57Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
             "stars": 1103,
@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16381,
+            "stars": 16385,
             "topics": [
               "auditing",
               "compliance",
@@ -746,7 +746,7 @@
             "open_issues": 404,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13395,
+            "stars": 13399,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30945,
+            "stars": 30947,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1258,7 +1258,7 @@
                 "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 216,
+                "stars": 215,
                 "topics": [
                   "ios",
                   "iphone",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:07:09.324Z",
+    "last_updated": "2026-09-27T07:39:22.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
