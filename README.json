@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1103,
+            "stars": 1105,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16385,
+            "stars": 16390,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1086,
+            "stars": 1087,
             "topics": [
               "dfir",
               "forensics",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11267,
+            "stars": 11268,
             "topics": [
               "kernel"
             ]
@@ -503,7 +503,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
             "stars": 4522,
@@ -919,7 +919,7 @@
             "open_issues": 12,
             "owner": "rentzsch",
             "repo": "jrswizzle",
-            "stars": 2642,
+            "stars": 2641,
             "topics": []
           },
           "title": "jrswizzle",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2641,
+            "stars": 2643,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30947,
+            "stars": 30949,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6477,
+            "stars": 6476,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1224,11 +1224,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T22:37:42Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-28T01:06:44Z",
+            "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3306,
+            "stars": 3307,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1324,7 +1324,7 @@
             "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1771,
+            "stars": 1773,
             "topics": [
               "exploitation",
               "information-security",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T07:39:22.426Z",
+    "last_updated": "2026-09-28T08:17:40.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
