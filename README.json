@@ -92,7 +92,7 @@
             "open_issues": 6,
             "owner": "malus-security",
             "repo": "sandblaster",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "apple-sandbox",
               "hacktoberfest",
@@ -120,10 +120,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T14:26:22Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 654,
+            "stars": 653,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -140,7 +140,7 @@
             {
               "node_type": "item",
               "title": "mac4n6/APOLLO",
-              "description": null,
+              "description": "mac4n6/APOLLO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -161,7 +161,7 @@
             {
               "node_type": "item",
               "title": "Presentation slides",
-              "description": null,
+              "description": "mac4n6/Presentations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "richiercyrus/Venator",
-              "description": null,
+              "description": "richiercyrus/Venator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16417,
+            "stars": 16420,
             "topics": [
               "auditing",
               "compliance",
@@ -317,7 +317,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-06-13T09:40:01Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "carmaa",
             "repo": "inception",
             "stars": 1605,
@@ -394,7 +394,7 @@
             {
               "node_type": "item",
               "title": "The author also has a collection of DFIR scripts",
-              "description": null,
+              "description": "ydkhatri/MacForensics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "Proof of concept",
-              "description": null,
+              "description": "gkaindl/meltdown-poc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -746,7 +746,7 @@
             "open_issues": 404,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13408,
+            "stars": 13407,
             "topics": []
           },
           "title": "Darling",
@@ -799,7 +799,7 @@
             {
               "node_type": "item",
               "title": "droe/xnumon",
-              "description": null,
+              "description": "droe/xnumon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2643,
+            "stars": 2644,
             "topics": [
               "bash",
               "dmg",
@@ -1186,7 +1186,7 @@
             "open_issues": 8,
             "owner": "munki",
             "repo": "createOSXinstallPkg",
-            "stars": 318,
+            "stars": 315,
             "topics": []
           },
           "title": "createOSXinstallPkg",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-28T01:06:44Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-02T22:32:31Z",
+            "open_issues": 44,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3311,
@@ -1245,7 +1245,7 @@
             {
               "node_type": "item",
               "title": "Another python utility",
-              "description": null,
+              "description": "gh2o/rvi_capture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:25:23Z",
+            "last_commit": "2026-10-02T10:32:32Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1368,7 +1368,7 @@
             "open_issues": 7,
             "owner": "EmpireProject",
             "repo": "EmPyre",
-            "stars": 871,
+            "stars": 870,
             "topics": []
           },
           "title": "Empyre",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 8999,
             "topics": [
               "android",
               "backdoor",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1774,
+            "stars": 1773,
             "topics": [
               "exploitation",
               "information-security",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2420,
+            "stars": 2419,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:59:13.320Z",
+    "last_updated": "2026-10-03T05:17:12.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
