@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16420,
+            "stars": 16421,
             "topics": [
               "auditing",
               "compliance",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:12.012Z",
+    "last_updated": "2026-10-03T07:40:17.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
