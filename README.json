@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16421,
+            "stars": 16427,
             "topics": [
               "auditing",
               "compliance",
@@ -427,11 +427,11 @@
             "id": 101311218,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:35:59Z",
+            "last_commit": "2026-10-03T14:01:59Z",
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1087,
+            "stars": 1089,
             "topics": [
               "dfir",
               "forensics",
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-06T18:24:21Z",
-            "open_issues": 404,
+            "open_issues": 405,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13407,
+            "stars": 13404,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2644,
+            "stars": 2645,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30957,
+            "stars": 30958,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1102,7 +1102,7 @@
             "open_issues": 11,
             "owner": "juuso",
             "repo": "keychaindump",
-            "stars": 512,
+            "stars": 513,
             "topics": []
           },
           "title": "Keychain dump",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6479,
+            "stars": 6480,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:32:32Z",
+            "last_commit": "2026-10-03T09:54:22Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "android",
               "backdoor",
@@ -1449,7 +1449,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "exploitation",
               "information-security",
@@ -1482,7 +1482,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2419,
+            "stars": 2420,
             "topics": [
               "backdoor",
               "mac",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:40:17.483Z",
+    "last_updated": "2026-10-04T07:49:19.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
