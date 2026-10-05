@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 653,
+            "stars": 652,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16427,
+            "stars": 16430,
             "topics": [
               "auditing",
               "compliance",
@@ -462,7 +462,7 @@
             "open_issues": 1,
             "owner": "michalmalik",
             "repo": "osx-re-101",
-            "stars": 1731,
+            "stars": 1732,
             "topics": []
           },
           "title": "Collection of OSX reverse engineering resources",
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4524,
+            "stars": 4525,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -746,7 +746,7 @@
             "open_issues": 405,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13404,
+            "stars": 13407,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2645,
+            "stars": 2646,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30958,
+            "stars": 30961,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:54:22Z",
+            "last_commit": "2026-10-04T10:36:32Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1410,7 +1410,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 9001,
             "topics": [
               "android",
               "backdoor",
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:49:19.517Z",
+    "last_updated": "2026-10-05T08:27:35.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
