@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1109,
+            "stars": 1108,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -232,7 +232,7 @@
             "open_issues": 223,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16443,
+            "stars": 16445,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11266,
+            "stars": 11265,
             "topics": [
               "kernel"
             ]
@@ -554,7 +554,7 @@
             "open_issues": 4,
             "owner": "zhengmin1989",
             "repo": "MyArticles",
-            "stars": 873,
+            "stars": 872,
             "topics": []
           },
           "title": "macOS/iOS Kernel Debugging and Heap Feng Shui",
@@ -746,7 +746,7 @@
             "open_issues": 405,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13419,
+            "stars": 13417,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30963,
+            "stars": 30966,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,11 +1224,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-08T01:04:19Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-08T22:54:28Z",
+            "open_issues": 47,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3313,
+            "stars": 3314,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-07T11:07:07Z",
+            "last_commit": "2026-10-08T11:24:39Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1324,7 +1324,7 @@
             "open_issues": 1,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 8999,
             "topics": [
               "android",
               "backdoor",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:29:00.116Z",
+    "last_updated": "2026-10-09T08:32:21.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1520,7 +1520,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 790,
+      "stars": 791,
       "topics": [
         "awesome",
         "awesome-list",
