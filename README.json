@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16451,
+            "stars": 16457,
             "topics": [
               "auditing",
               "compliance",
@@ -427,7 +427,7 @@
             "id": 101311218,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T04:02:39Z",
+            "last_commit": "2026-10-10T12:14:54Z",
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11265,
+            "stars": 11268,
             "topics": [
               "kernel"
             ]
@@ -602,7 +602,7 @@
             "open_issues": 3,
             "owner": "bazad",
             "repo": "blanket",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "title": "blanket",
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-06T18:24:21Z",
-            "open_issues": 405,
+            "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13422,
+            "stars": 13425,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30971,
+            "stars": 30972,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:21:31Z",
+            "last_commit": "2026-10-10T10:38:47Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1324,7 +1324,7 @@
             "open_issues": 2,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 159,
+            "stars": 161,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:09:18.252Z",
+    "last_updated": "2026-10-11T08:21:16.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
