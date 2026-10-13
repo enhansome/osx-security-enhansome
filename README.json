@@ -153,7 +153,7 @@
                 "open_issues": 8,
                 "owner": "mac4n6",
                 "repo": "APOLLO",
-                "stars": 651,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -232,7 +232,7 @@
             "open_issues": 222,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16461,
+            "stars": 16463,
             "topics": [
               "auditing",
               "compliance",
@@ -462,7 +462,7 @@
             "open_issues": 1,
             "owner": "michalmalik",
             "repo": "osx-re-101",
-            "stars": 1732,
+            "stars": 1731,
             "topics": []
           },
           "title": "Collection of OSX reverse engineering resources",
@@ -746,7 +746,7 @@
             "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13429,
+            "stars": 13432,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30973,
+            "stars": 30978,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1225,10 +1225,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-12T02:53:15Z",
-            "open_issues": 46,
+            "open_issues": 41,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3315,
+            "stars": 3317,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-11T10:51:38Z",
+            "last_commit": "2026-10-12T12:05:10Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "android",
               "backdoor",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:42:45.419Z",
+    "last_updated": "2026-10-13T09:01:34.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
