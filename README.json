@@ -66,7 +66,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "efi",
               "firmware",
@@ -229,7 +229,7 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 222,
+            "open_issues": 223,
             "owner": "CISOfy",
             "repo": "lynis",
             "stars": 16463,
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1089,
+            "stars": 1091,
             "topics": [
               "dfir",
               "forensics",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11268,
+            "stars": 11269,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 18,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4527,
+            "stars": 4525,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -746,7 +746,7 @@
             "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13432,
+            "stars": 13434,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2651,
+            "stars": 2652,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30978,
+            "stars": 30983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6481,
+            "stars": 6480,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1225,10 +1225,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-12T02:53:15Z",
-            "open_issues": 41,
+            "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3317,
+            "stars": 3319,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:05:10Z",
+            "last_commit": "2026-10-13T11:51:50Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,7 +1320,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:45:19Z",
+            "last_commit": "2026-10-13T12:27:27Z",
             "open_issues": 2,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 9004,
             "topics": [
               "android",
               "backdoor",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2420,
+            "stars": 2422,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:01:34.206Z",
+    "last_updated": "2026-10-14T07:09:31.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1516,11 +1516,11 @@
       "id": 64573526,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-06-27T22:16:28Z",
+      "last_commit": "2026-10-13T21:40:49Z",
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 791,
+      "stars": 792,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1531,7 +1531,7 @@
         "osx-security"
       ]
     },
-    "original_repository_sha": "6281b39b22a7b86c290bffb08117fed11e7b4dca",
+    "original_repository_sha": "2a03dc91914da9225aa15c010d1babb4bda8ff5d",
     "enhanced_repository": "enhansome/osx-security-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome osx security awesome with stars"

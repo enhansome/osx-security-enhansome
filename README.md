@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,334 | 🐛 105 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,799 | 🐛 105 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -79,7 +79,7 @@ A collection of OSX/iOS security related resources
 
 * System monitoring tool
 
-### [EFIgy](https://github.com/duo-labs/EFIgy) ⭐ 508 | 🐛 3 | 🌐 Python | 📅 2021-12-17
+### [EFIgy](https://github.com/duo-labs/EFIgy) ⭐ 509 | 🐛 3 | 🌐 Python | 📅 2021-12-17
 
 * A RESTful API and client that helps Apple Mac users determine if they are running the expected EFI firmware version given their Mac hardware and OS build version
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,463 | 🐛 222 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,463 | 🐛 223 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -191,7 +191,7 @@ A collection of OSX/iOS security related resources
 
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
-### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,089 | 🐛 9 | 🌐 Python | 📅 2026-10-10
+### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,091 | 🐛 9 | 🌐 Python | 📅 2026-10-10
 
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2024-08-04
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
@@ -226,7 +226,7 @@ A collection of OSX/iOS security related resources
 
 * Very good list of various crackme challenges that is categorized by level and OS
 
-### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,527 | 🐛 18 | 📅 2023-08-19
+### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing) ⭐ 4,525 | 🐛 18 | 📅 2023-08-19
 
 * Awesome list dedicated to reversing
 
@@ -327,7 +327,7 @@ A collection of OSX/iOS security related resources
 
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 
-### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js) ⭐ 616 | 🐛 2 | 🌐 C | 📅 2020-10-01
+### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js) ⭐ 617 | 🐛 2 | 🌐 C | 📅 2020-10-01
 
 * [MachO tricks](https://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,432 | 🐛 419 | 🌐 Objective-C | 📅 2026-10-12
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,434 | 🐛 419 | 🌐 Objective-C | 📅 2026-10-12
 
 * Darwin/macOS emulation layer for Linux
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,651 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,652 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -563,9 +563,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * CLI for generating .pkg installers
 
-### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,481 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
+### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,480 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,317 | 🐛 41 | 🌐 Python | 📅 2026-10-12
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,319 | 🐛 43 | 🌐 Python | 📅 2026-10-12
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-12
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-10-13
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,9 +619,13 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 162 | 🐛 2 | 🌐 Swift | 📅 2026-10-07
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 162 | 🐛 2 | 🌐 Swift | 📅 2026-10-13
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
+
+### [Wardlume](https://wardlume.github.io)
+
+* Locks a Mac's keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
 
 ## Remote Access Toolkits
 
@@ -635,7 +639,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,775 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
-### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,420 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
+### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,422 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
 
@@ -652,8 +656,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,752 | 🐛 0 | 🌐 Shell | 📅 2026-10-11
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,754 | 🐛 0 | 🌐 Shell | 📅 2026-10-13
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
