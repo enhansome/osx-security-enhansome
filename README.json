@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1110,
+            "stars": 1109,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 224,
+            "open_issues": 225,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16502,
+            "stars": 16507,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11271,
+            "stars": 11272,
             "topics": [
               "kernel"
             ]
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-12T03:23:14Z",
-            "open_issues": 419,
+            "open_issues": 420,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13576,
+            "stars": 13592,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2653,
+            "stars": 2652,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31000,
+            "stars": 31005,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1258,7 +1258,7 @@
                 "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 215,
+                "stars": 216,
                 "topics": [
                   "ios",
                   "iphone",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-17T08:36:36Z",
+            "last_commit": "2026-10-18T08:53:01Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2422,
+            "stars": 2423,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:00:03.876Z",
+    "last_updated": "2026-10-19T07:22:56.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
