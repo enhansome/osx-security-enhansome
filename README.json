@@ -232,7 +232,7 @@
             "open_issues": 225,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16507,
+            "stars": 16514,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "dfir",
               "forensics",
@@ -746,7 +746,7 @@
             "open_issues": 420,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13592,
+            "stars": 13596,
             "topics": []
           },
           "title": "Darling",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "alerts",
               "ids",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2652,
+            "stars": 2654,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31005,
+            "stars": 31011,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,11 +1224,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-12T02:53:15Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-19T22:07:41Z",
+            "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3321,
+            "stars": 3322,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-18T08:53:01Z",
+            "last_commit": "2026-10-19T09:58:19Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,7 +1320,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:16:11Z",
+            "last_commit": "2026-10-20T07:08:23Z",
             "open_issues": 9,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9003,
+            "stars": 9005,
             "topics": [
               "android",
               "backdoor",
@@ -1452,7 +1452,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "exploitation",
               "information-security",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2423,
+            "stars": 2424,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:22:56.747Z",
+    "last_updated": "2026-10-20T07:13:31.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1520,7 +1520,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 793,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
