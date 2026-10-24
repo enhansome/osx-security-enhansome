@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 654,
+            "stars": 653,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -202,7 +202,7 @@
                 "open_issues": 1,
                 "owner": "richiercyrus",
                 "repo": "Venator",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "deprecated",
                   "detection",
@@ -232,7 +232,7 @@
             "open_issues": 226,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16530,
+            "stars": 16541,
             "topics": [
               "auditing",
               "compliance",
@@ -362,7 +362,7 @@
             "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "title": "Mac4n6",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11273,
+            "stars": 11270,
             "topics": [
               "kernel"
             ]
@@ -743,10 +743,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-12T03:23:14Z",
-            "open_issues": 420,
+            "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13614,
+            "stars": 13632,
             "topics": []
           },
           "title": "Darling",
@@ -767,7 +767,7 @@
             "open_issues": 3,
             "owner": "didi",
             "repo": "kemon",
-            "stars": 398,
+            "stars": 397,
             "topics": []
           },
           "title": "Kemon",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2656,
+            "stars": 2658,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31025,
+            "stars": 31034,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1228,7 +1228,7 @@
             "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3320,
+            "stars": 3319,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:26:54Z",
+            "last_commit": "2026-10-23T09:22:59Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:02:27.582Z",
+    "last_updated": "2026-10-24T06:54:37.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1520,7 +1520,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 794,
+      "stars": 795,
       "topics": [
         "awesome",
         "awesome-list",
