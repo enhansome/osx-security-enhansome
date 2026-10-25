@@ -92,7 +92,7 @@
             "open_issues": 6,
             "owner": "malus-security",
             "repo": "sandblaster",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "apple-sandbox",
               "hacktoberfest",
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 226,
+            "open_issues": 238,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16541,
+            "stars": 16551,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11270,
+            "stars": 11271,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4527,
+            "stars": 4525,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -746,7 +746,7 @@
             "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13632,
+            "stars": 13642,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2658,
+            "stars": 2659,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31034,
+            "stars": 31040,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6483,
+            "stars": 6484,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-23T09:22:59Z",
+            "last_commit": "2026-10-24T08:54:44Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9006,
+            "stars": 9007,
             "topics": [
               "android",
               "backdoor",
@@ -1452,7 +1452,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "exploitation",
               "information-security",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:54:37.223Z",
+    "last_updated": "2026-10-25T07:19:22.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1520,7 +1520,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 795,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
