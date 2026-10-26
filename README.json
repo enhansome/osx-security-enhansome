@@ -66,7 +66,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "efi",
               "firmware",
@@ -232,7 +232,7 @@
             "open_issues": 238,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16551,
+            "stars": 16555,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1095,
+            "stars": 1096,
             "topics": [
               "dfir",
               "forensics",
@@ -533,7 +533,7 @@
             "open_issues": 0,
             "owner": "ufrisk",
             "repo": "presentations",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "title": "Direct Memory Attack the Kernel",
@@ -746,7 +746,7 @@
             "open_issues": 419,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13642,
+            "stars": 13648,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31040,
+            "stars": 31046,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1228,7 +1228,7 @@
             "open_issues": 43,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3319,
+            "stars": 3320,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-24T08:54:44Z",
+            "last_commit": "2026-10-25T09:11:35Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1452,7 +1452,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "exploitation",
               "information-security",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:19:22.085Z",
+    "last_updated": "2026-10-26T07:28:22.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
