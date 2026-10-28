@@ -232,7 +232,7 @@
             "open_issues": 238,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16561,
+            "stars": 16573,
             "topics": [
               "auditing",
               "compliance",
@@ -427,11 +427,11 @@
             "id": 101311218,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T03:34:57Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-27T12:34:44Z",
+            "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "dfir",
               "forensics",
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4526,
+            "stars": 4527,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T03:23:14Z",
-            "open_issues": 419,
+            "last_commit": "2026-10-28T04:35:22Z",
+            "open_issues": 417,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13654,
+            "stars": 13659,
             "topics": []
           },
           "title": "Darling",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 873,
+            "stars": 872,
             "topics": [
               "alerts",
               "ids",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31051,
+            "stars": 31052,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,11 +1287,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-26T10:12:21Z",
+            "last_commit": "2026-10-27T09:51:12Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "bash",
               "cli",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2423,
+            "stars": 2422,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T07:22:41.666Z",
+    "last_updated": "2026-10-28T07:57:56.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
