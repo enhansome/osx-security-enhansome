@@ -92,7 +92,7 @@
             "open_issues": 6,
             "owner": "malus-security",
             "repo": "sandblaster",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "apple-sandbox",
               "hacktoberfest",
@@ -153,7 +153,7 @@
                 "open_issues": 8,
                 "owner": "mac4n6",
                 "repo": "APOLLO",
-                "stars": 652,
+                "stars": 653,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -232,7 +232,7 @@
             "open_issues": 238,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16573,
+            "stars": 16584,
             "topics": [
               "auditing",
               "compliance",
@@ -428,10 +428,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T12:34:44Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "dfir",
               "forensics",
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4527,
+            "stars": 4526,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -746,7 +746,7 @@
             "open_issues": 417,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13659,
+            "stars": 13661,
             "topics": []
           },
           "title": "Darling",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 872,
+            "stars": 871,
             "topics": [
               "alerts",
               "ids",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31052,
+            "stars": 31059,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1258,7 +1258,7 @@
                 "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "ios",
                   "iphone",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:51:12Z",
+            "last_commit": "2026-10-28T10:37:40Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1321,10 +1321,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-26T12:26:42Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1413,7 +1413,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9007,
+            "stars": 9006,
             "topics": [
               "android",
               "backdoor",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:57:56.020Z",
+    "last_updated": "2026-10-29T08:05:46.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
