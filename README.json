@@ -232,7 +232,7 @@
             "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16595,
+            "stars": 16604,
             "topics": [
               "auditing",
               "compliance",
@@ -428,7 +428,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-31T07:03:44Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "ydkhatri",
             "repo": "mac_apt",
             "stars": 1098,
@@ -746,7 +746,7 @@
             "open_issues": 417,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13668,
+            "stars": 13676,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31063,
+            "stars": 31066,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-30T10:53:50Z",
+            "last_commit": "2026-10-31T10:25:32Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1413,7 +1413,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9006,
+            "stars": 9005,
             "topics": [
               "android",
               "backdoor",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T08:01:57.609Z",
+    "last_updated": "2026-11-01T08:47:29.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
