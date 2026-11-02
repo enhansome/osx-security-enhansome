@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1108,
+            "stars": 1109,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -202,7 +202,7 @@
                 "open_issues": 1,
                 "owner": "richiercyrus",
                 "repo": "Venator",
-                "stars": 176,
+                "stars": 175,
                 "topics": [
                   "deprecated",
                   "detection",
@@ -232,7 +232,7 @@
             "open_issues": 240,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16604,
+            "stars": 16611,
             "topics": [
               "auditing",
               "compliance",
@@ -362,7 +362,7 @@
             "open_issues": 0,
             "owner": "pstirparo",
             "repo": "mac4n6",
-            "stars": 346,
+            "stars": 345,
             "topics": []
           },
           "title": "Mac4n6",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11271,
+            "stars": 11272,
             "topics": [
               "kernel"
             ]
@@ -503,7 +503,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
             "stars": 4528,
@@ -746,7 +746,7 @@
             "open_issues": 417,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13676,
+            "stars": 13675,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31066,
+            "stars": 31074,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6483,
+            "stars": 6481,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-31T10:25:32Z",
+            "last_commit": "2026-11-01T11:18:58Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1324,7 +1324,7 @@
             "open_issues": 7,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -1452,7 +1452,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1777,
+            "stars": 1776,
             "topics": [
               "exploitation",
               "information-security",
@@ -1485,7 +1485,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2423,
+            "stars": 2424,
             "topics": [
               "backdoor",
               "mac",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:47:29.982Z",
+    "last_updated": "2026-11-02T08:56:16.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1520,7 +1520,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 795,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
