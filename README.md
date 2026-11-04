@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,907 | 🐛 104 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,538 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,615 | 🐛 242 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,622 | 🐛 243 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,681 | 🐛 416 | 🌐 Objective-C | 📅 2026-11-02
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,692 | 🐛 416 | 🌐 Objective-C | 📅 2026-11-02
 
 * Darwin/macOS emulation layer for Linux
 
@@ -483,7 +483,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Utility to test for code-sign bypass vulnerability
 
-### [osx security growler](https://github.com/pirate/security-growler) ⭐ 871 | 🐛 1 | 🌐 Python | 📅 2025-12-06
+### [osx security growler](https://github.com/pirate/security-growler) ⭐ 872 | 🐛 1 | 🌐 Python | 📅 2025-12-06
 
 * Mac menubar item that lets you know about security events on your system
 
@@ -511,7 +511,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * kernel module for OSX to defeat anti-debugging protection
 
-### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,661 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
+### [create-dmg](https://github.com/andreyvit/create-dmg) ⭐ 2,660 | 🐛 47 | 🌐 Shell | 📅 2026-07-02
 
 * CLI utility for creating and modifying DMG files
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 129 | 🐛 1 | 🌐 Shell | 📅 2026-11-02
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 129 | 🐛 1 | 🌐 Shell | 📅 2026-11-03
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 172 | 🐛 7 | 🌐 Swift | 📅 2026-10-26
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 174 | 🐛 7 | 🌐 Swift | 📅 2026-10-26
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -639,7 +639,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) ⭐ 1,776 | 🐛 56 | 🌐 Objective-C | 📅 2021-03-25 - Works on OSX and jailbroken iOS
 
-### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,425 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
+### [EvilOSX](https://github.com/Marten4n6/EvilOSX) ⭐ 2,424 | 🐛 44 | 🌐 Python | 📅 2021-02-10 - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
 
@@ -660,4 +660,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
