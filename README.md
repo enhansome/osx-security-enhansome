@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,538 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,293 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -126,7 +126,7 @@ A collection of OSX/iOS security related resources
 
 ### APOLLO tool
 
-* [Source code](https://github.com/mac4n6/APOLLO) ⭐ 654 | 🐛 8 | 🌐 Python | 📅 2024-02-25
+* [Source code](https://github.com/mac4n6/APOLLO) ⭐ 653 | 🐛 8 | 🌐 Python | 📅 2024-02-25
 * [Presentation slides](https://github.com/mac4n6/Presentations/blob/master/LaunchingAPOLLO/LaunchingAPOLLO.pdf) ⭐ 267 | 🐛 0 | 📅 2025-03-18
 * Python tool for advanced forensics analysis
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,622 | 🐛 243 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,631 | 🐛 244 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -193,7 +193,7 @@ A collection of OSX/iOS security related resources
 
 ### [mac-apt](https://github.com/ydkhatri/mac_apt) ⭐ 1,098 | 🐛 9 | 🌐 Python | 📅 2026-10-31
 
-* The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 211 | 🐛 2 | 🌐 Python | 📅 2024-08-04
+* The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2024-08-04
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 
 ## Reverse engineering
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,692 | 🐛 416 | 🌐 Objective-C | 📅 2026-11-02
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,696 | 🐛 408 | 🌐 Objective-C | 📅 2026-11-05
 
 * Darwin/macOS emulation layer for Linux
 
@@ -565,7 +565,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,482 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,322 | 🐛 45 | 🌐 Python | 📅 2026-10-22
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,322 | 🐛 40 | 🌐 Python | 📅 2026-11-05
 
 * System firmware checker by Intel
 
@@ -589,7 +589,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Remote Packet Capture for iOS Devices](https://useyourloaf.com/blog/remote-packet-capture-for-ios-devices/)
 
-* [Another python utility](https://github.com/gh2o/rvi_capture) ⭐ 218 | 🐛 2 | 🌐 Python | 📅 2024-03-26
+* [Another python utility](https://github.com/gh2o/rvi_capture) ⭐ 219 | 🐛 2 | 🌐 Python | 📅 2024-03-26
 * Use a remote virtual interface to capture packets from a tethered iOS device
 * [Python utility](https://thrysoee.dk/iospcap/)
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 129 | 🐛 1 | 🌐 Shell | 📅 2026-11-03
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 129 | 🐛 1 | 🌐 Shell | 📅 2026-11-04
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 174 | 🐛 7 | 🌐 Swift | 📅 2026-10-26
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 173 | 🐛 7 | 🌐 Swift | 📅 2026-10-26
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -660,4 +660,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
