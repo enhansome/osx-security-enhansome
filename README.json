@@ -66,7 +66,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "efi",
               "firmware",
@@ -232,7 +232,7 @@
             "open_issues": 245,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16642,
+            "stars": 16649,
             "topics": [
               "auditing",
               "compliance",
@@ -383,7 +383,7 @@
             "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1889,
+            "stars": 1888,
             "topics": []
           },
           "title": "OSX Collector",
@@ -427,8 +427,8 @@
             "id": 101311218,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T07:03:44Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-06T12:38:21Z",
+            "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
             "stars": 1098,
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11270,
+            "stars": 11269,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4528,
+            "stars": 4527,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T08:52:27Z",
-            "open_issues": 398,
+            "last_commit": "2026-11-07T08:21:04Z",
+            "open_issues": 391,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13697,
+            "stars": 13699,
             "topics": []
           },
           "title": "Darling",
@@ -896,7 +896,7 @@
             "open_issues": 3,
             "owner": "phdphuc",
             "repo": "mac-a-mal",
-            "stars": 89,
+            "stars": 88,
             "topics": [
               "macos"
             ]
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31084,
+            "stars": 31088,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6482,
+            "stars": 6481,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T01:29:02Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-07T01:35:19Z",
+            "open_issues": 31,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3322,
@@ -1287,11 +1287,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-05T14:15:10Z",
+            "last_commit": "2026-11-06T13:05:37Z",
             "open_issues": 1,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "bash",
               "cli",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:57:58.466Z",
+    "last_updated": "2026-11-07T08:24:36.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
