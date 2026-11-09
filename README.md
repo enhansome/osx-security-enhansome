@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,440 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,087 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -104,7 +104,7 @@ A collection of OSX/iOS security related resources
 * Reversing the Apple sandbox
 * [Paper](https://arxiv.org/pdf/1608.04303.pdf)
 
-### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 653 | 🐛 3 | 📅 2026-10-01
+### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) ⭐ 654 | 🐛 3 | 📅 2026-10-01
 
 * Hardening guide for El Capitan
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,655 | 🐛 246 | 🌐 Shell | 📅 2026-09-16
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,661 | 🐛 247 | 🌐 Shell | 📅 2026-09-16
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,705 | 🐛 396 | 🌐 Objective-C | 📅 2026-11-08
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,712 | 🐛 395 | 🌐 Objective-C | 📅 2026-11-09
 
 * Darwin/macOS emulation layer for Linux
 
@@ -565,7 +565,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,481 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,323 | 🐛 31 | 🌐 Python | 📅 2026-11-07
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,325 | 🐛 35 | 🌐 Python | 📅 2026-11-09
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 1 | 🌐 Shell | 📅 2026-11-07
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 132 | 🐛 1 | 🌐 Shell | 📅 2026-11-08
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -619,7 +619,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 
-### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 176 | 🐛 8 | 🌐 Swift | 📅 2026-11-07
+### [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 177 | 🐛 8 | 🌐 Swift | 📅 2026-11-09
 
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 
@@ -656,8 +656,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,768 | 🐛 0 | 🌐 Shell | 📅 2026-10-31
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,769 | 🐛 0 | 🌐 Shell | 📅 2026-10-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
