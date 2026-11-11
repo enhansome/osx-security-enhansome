@@ -45,7 +45,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "macops",
-            "stars": 823,
+            "stars": 824,
             "topics": []
           },
           "title": "macops",
@@ -92,7 +92,7 @@
             "open_issues": 6,
             "owner": "malus-security",
             "repo": "sandblaster",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "apple-sandbox",
               "hacktoberfest",
@@ -120,7 +120,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T14:26:22Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ernw",
             "repo": "hardening",
             "stars": 654,
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 250,
+            "open_issues": 251,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16664,
+            "stars": 16672,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11270,
+            "stars": 11269,
             "topics": [
               "kernel"
             ]
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T22:06:35Z",
-            "open_issues": 386,
+            "last_commit": "2026-11-11T07:51:54Z",
+            "open_issues": 441,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13727,
+            "stars": 13740,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2658,
+            "stars": 2659,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31100,
+            "stars": 31102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6482,
+            "stars": 6484,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-09T14:45:05Z",
+            "last_commit": "2026-11-10T12:42:59Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1321,10 +1321,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-10T07:49:57Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9004,
+            "stars": 9005,
             "topics": [
               "android",
               "backdoor",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:20:38.804Z",
+    "last_updated": "2026-11-11T08:54:39.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
