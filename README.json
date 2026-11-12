@@ -174,7 +174,7 @@
                 "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 267,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -232,7 +232,7 @@
             "open_issues": 251,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16672,
+            "stars": 16677,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11269,
+            "stars": 11268,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4529,
+            "stars": 4531,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T07:51:54Z",
-            "open_issues": 441,
+            "last_commit": "2026-11-12T09:15:47Z",
+            "open_issues": 410,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13740,
+            "stars": 13752,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2659,
+            "stars": 2661,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31102,
+            "stars": 31106,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6484,
+            "stars": 6485,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1258,7 +1258,7 @@
                 "open_issues": 2,
                 "owner": "gh2o",
                 "repo": "rvi_capture",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "ios",
                   "iphone",
@@ -1287,11 +1287,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-10T12:42:59Z",
+            "last_commit": "2026-11-11T11:54:55Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "bash",
               "cli",
@@ -1320,7 +1320,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-10T07:49:57Z",
+            "last_commit": "2026-11-11T13:36:35Z",
             "open_issues": 9,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9005,
+            "stars": 9006,
             "topics": [
               "android",
               "backdoor",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:54:39.634Z",
+    "last_updated": "2026-11-12T09:21:45.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
