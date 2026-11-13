@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 251,
+            "open_issues": 252,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16677,
+            "stars": 16683,
             "topics": [
               "auditing",
               "compliance",
@@ -320,7 +320,7 @@
             "open_issues": 24,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1608,
+            "stars": 1607,
             "topics": []
           },
           "title": "Inception",
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4531,
+            "stars": 4532,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T09:15:47Z",
-            "open_issues": 410,
+            "last_commit": "2026-11-12T22:12:17Z",
+            "open_issues": 393,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13752,
+            "stars": 13756,
             "topics": []
           },
           "title": "Darling",
@@ -961,7 +961,7 @@
             "open_issues": 2,
             "owner": "AlexDenisov",
             "repo": "bitcode_retriever",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "bitcode",
               "mach-o"
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2661,
+            "stars": 2662,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31106,
+            "stars": 31111,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1228,7 +1228,7 @@
             "open_issues": 36,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3325,
+            "stars": 3326,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-11T11:54:55Z",
+            "last_commit": "2026-11-12T12:49:27Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1320,11 +1320,11 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:36:35Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-12T12:43:33Z",
+            "open_issues": 10,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9006,
+            "stars": 9007,
             "topics": [
               "android",
               "backdoor",
@@ -1453,7 +1453,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "exploitation",
               "information-security",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:21:45.423Z",
+    "last_updated": "2026-11-13T09:09:39.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1518,7 +1518,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-10-13T21:40:49Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
       "stars": 794,
