@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1111,
+            "stars": 1113,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -66,7 +66,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "efi",
               "firmware",
@@ -232,7 +232,7 @@
             "open_issues": 253,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16685,
+            "stars": 16689,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11268,
+            "stars": 11267,
             "topics": [
               "kernel"
             ]
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T06:27:10Z",
-            "open_issues": 415,
+            "last_commit": "2026-11-15T08:40:43Z",
+            "open_issues": 393,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13762,
+            "stars": 13772,
             "topics": []
           },
           "title": "Darling",
@@ -767,7 +767,7 @@
             "open_issues": 3,
             "owner": "didi",
             "repo": "kemon",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "title": "Kemon",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2662,
+            "stars": 2663,
             "topics": [
               "bash",
               "dmg",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31114,
+            "stars": 31112,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1144,7 +1144,7 @@
             "open_issues": 34,
             "owner": "Agnidia",
             "repo": "KisMac2",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "title": "KisMac2",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6485,
+            "stars": 6484,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1228,7 +1228,7 @@
             "open_issues": 35,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3328,
+            "stars": 3331,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-13T12:17:30Z",
+            "last_commit": "2026-11-14T11:33:12Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9007,
+            "stars": 9006,
             "topics": [
               "android",
               "backdoor",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:39:48.808Z",
+    "last_updated": "2026-11-15T08:52:28.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1521,7 +1521,7 @@
       "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 794,
+      "stars": 795,
       "topics": [
         "awesome",
         "awesome-list",
