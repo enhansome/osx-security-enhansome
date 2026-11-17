@@ -232,7 +232,7 @@
             "open_issues": 253,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16695,
+            "stars": 16704,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "dfir",
               "forensics",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11268,
+            "stars": 11269,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4531,
+            "stars": 4530,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 617,
+            "stars": 618,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T09:02:50Z",
-            "open_issues": 395,
+            "last_commit": "2026-11-17T00:15:18Z",
+            "open_issues": 400,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13783,
+            "stars": 13786,
             "topics": []
           },
           "title": "Darling",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2663,
+            "stars": 2664,
             "topics": [
               "bash",
               "dmg",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9007,
+            "stars": 9010,
             "topics": [
               "android",
               "backdoor",
@@ -1453,7 +1453,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "exploitation",
               "information-security",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:03:50.658Z",
+    "last_updated": "2026-11-17T10:15:59.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
