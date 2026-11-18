@@ -153,7 +153,7 @@
                 "open_issues": 8,
                 "owner": "mac4n6",
                 "repo": "APOLLO",
-                "stars": 653,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -174,7 +174,7 @@
                 "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 269,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -229,10 +229,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 253,
+            "open_issues": 252,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16704,
+            "stars": 16712,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "dfir",
               "forensics",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11269,
+            "stars": 11270,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 19,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4530,
+            "stars": 4529,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T00:15:18Z",
-            "open_issues": 400,
+            "last_commit": "2026-11-18T07:37:51Z",
+            "open_issues": 397,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13786,
+            "stars": 13790,
             "topics": []
           },
           "title": "Darling",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 874,
+            "stars": 873,
             "topics": [
               "alerts",
               "ids",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31114,
+            "stars": 31118,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6484,
+            "stars": 6483,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-15T11:59:11Z",
+            "last_commit": "2026-11-17T13:32:00Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1324,7 +1324,7 @@
             "open_issues": 10,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 180,
+            "stars": 183,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9010,
+            "stars": 9009,
             "topics": [
               "android",
               "backdoor",
@@ -1486,7 +1486,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2428,
+            "stars": 2427,
             "topics": [
               "backdoor",
               "mac",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:15:59.372Z",
+    "last_updated": "2026-11-18T09:47:52.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1518,7 +1518,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-10-13T21:40:49Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
       "stars": 795,
