@@ -18,7 +18,7 @@
             "open_issues": 6,
             "owner": "writeups",
             "repo": "iOS",
-            "stars": 1114,
+            "stars": 1113,
             "topics": []
           },
           "title": "iOS vulnerability write-up",
@@ -45,7 +45,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "macops",
-            "stars": 824,
+            "stars": 823,
             "topics": []
           },
           "title": "macops",
@@ -66,7 +66,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "EFIgy",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "efi",
               "firmware",
@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 654,
+            "stars": 655,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -228,11 +228,11 @@
             "id": 15078635,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T21:41:02Z",
-            "open_issues": 253,
+            "last_commit": "2026-11-19T10:17:22Z",
+            "open_issues": 252,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16721,
+            "stars": 16727,
             "topics": [
               "auditing",
               "compliance",
@@ -320,7 +320,7 @@
             "open_issues": 24,
             "owner": "carmaa",
             "repo": "inception",
-            "stars": 1607,
+            "stars": 1605,
             "topics": []
           },
           "title": "Inception",
@@ -383,7 +383,7 @@
             "open_issues": 18,
             "owner": "YelpArchive",
             "repo": "osxcollector",
-            "stars": 1887,
+            "stars": 1888,
             "topics": []
           },
           "title": "OSX Collector",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1103,
+            "stars": 1104,
             "topics": [
               "dfir",
               "forensics",
@@ -462,7 +462,7 @@
             "open_issues": 1,
             "owner": "michalmalik",
             "repo": "osx-re-101",
-            "stars": 1733,
+            "stars": 1732,
             "topics": []
           },
           "title": "Collection of OSX reverse engineering resources",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11271,
+            "stars": 11272,
             "topics": [
               "kernel"
             ]
@@ -503,10 +503,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-19T07:30:45Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4530,
+            "stars": 4529,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 618,
+            "stars": 617,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T09:46:36Z",
-            "open_issues": 402,
+            "last_commit": "2026-11-20T06:43:41Z",
+            "open_issues": 407,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13793,
+            "stars": 13796,
             "topics": []
           },
           "title": "Darling",
@@ -767,7 +767,7 @@
             "open_issues": 3,
             "owner": "didi",
             "repo": "kemon",
-            "stars": 398,
+            "stars": 397,
             "topics": []
           },
           "title": "Kemon",
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "pirate",
             "repo": "security-growler",
-            "stars": 873,
+            "stars": 872,
             "topics": [
               "alerts",
               "ids",
@@ -1027,7 +1027,7 @@
             "open_issues": 47,
             "owner": "create-dmg",
             "repo": "create-dmg",
-            "stars": 2664,
+            "stars": 2663,
             "topics": [
               "bash",
               "dmg",
@@ -1144,7 +1144,7 @@
             "open_issues": 34,
             "owner": "Agnidia",
             "repo": "KisMac2",
-            "stars": 917,
+            "stars": 916,
             "topics": []
           },
           "title": "KisMac2",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6483,
+            "stars": 6482,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1228,7 +1228,7 @@
             "open_issues": 36,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3334,
+            "stars": 3333,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-18T13:08:11Z",
+            "last_commit": "2026-11-19T13:19:45Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1372,7 +1372,7 @@
             "open_issues": 7,
             "owner": "EmpireProject",
             "repo": "EmPyre",
-            "stars": 871,
+            "stars": 870,
             "topics": []
           },
           "title": "Empyre",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9010,
+            "stars": 9011,
             "topics": [
               "android",
               "backdoor",
@@ -1453,7 +1453,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "exploitation",
               "information-security",
@@ -1486,7 +1486,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2427,
+            "stars": 2426,
             "topics": [
               "backdoor",
               "mac",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T09:56:19.793Z",
+    "last_updated": "2026-11-20T09:43:49.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1521,7 +1521,7 @@
       "open_issues": 1,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
-      "stars": 795,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
