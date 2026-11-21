@@ -153,7 +153,7 @@
                 "open_issues": 8,
                 "owner": "mac4n6",
                 "repo": "APOLLO",
-                "stars": 651,
+                "stars": 652,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -174,7 +174,7 @@
                 "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -228,11 +228,11 @@
             "id": 15078635,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T10:17:22Z",
-            "open_issues": 252,
+            "last_commit": "2026-11-20T23:35:47Z",
+            "open_issues": 247,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16727,
+            "stars": 16733,
             "topics": [
               "auditing",
               "compliance",
@@ -431,7 +431,7 @@
             "open_issues": 8,
             "owner": "ydkhatri",
             "repo": "mac_apt",
-            "stars": 1104,
+            "stars": 1106,
             "topics": [
               "dfir",
               "forensics",
@@ -506,7 +506,7 @@
             "open_issues": 20,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4529,
+            "stars": 4528,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -699,7 +699,7 @@
             "open_issues": 0,
             "owner": "IBM",
             "repo": "mac-ibm-enrollment-app",
-            "stars": 449,
+            "stars": 448,
             "topics": []
           },
           "title": "Mac@IBM",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T06:43:41Z",
-            "open_issues": 407,
+            "last_commit": "2026-11-21T00:00:05Z",
+            "open_issues": 412,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13796,
+            "stars": 13797,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31121,
+            "stars": 31124,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,11 +1224,11 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T01:03:48Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-20T19:56:26Z",
+            "open_issues": 35,
             "owner": "chipsec",
             "repo": "chipsec",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "firmware",
               "firmware-security",
@@ -1287,11 +1287,11 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-19T13:19:45Z",
+            "last_commit": "2026-11-20T13:00:43Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "bash",
               "cli",
@@ -1324,7 +1324,7 @@
             "open_issues": 10,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:43:49.597Z",
+    "last_updated": "2026-11-21T09:16:29.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
