@@ -123,7 +123,7 @@
             "open_issues": 3,
             "owner": "ernw",
             "repo": "hardening",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "title": "OSX El Capitan Hardening Guide",
@@ -174,7 +174,7 @@
                 "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "Presentations",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:51:06.580Z"
@@ -232,7 +232,7 @@
             "open_issues": 247,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16733,
+            "stars": 16739,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11272,
+            "stars": 11273,
             "topics": [
               "kernel"
             ]
@@ -506,7 +506,7 @@
             "open_issues": 20,
             "owner": "tylerha97",
             "repo": "awesome-reversing",
-            "stars": 4528,
+            "stars": 4527,
             "topics": []
           },
           "title": "Awesome Reversing",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T00:00:05Z",
-            "open_issues": 412,
+            "last_commit": "2026-11-22T09:23:43Z",
+            "open_issues": 409,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13797,
+            "stars": 13799,
             "topics": []
           },
           "title": "Darling",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:00:43Z",
+            "last_commit": "2026-11-21T12:43:56Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1453,7 +1453,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "exploitation",
               "information-security",
@@ -1486,7 +1486,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2426,
+            "stars": 2427,
             "topics": [
               "backdoor",
               "mac",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:16:29.119Z",
+    "last_updated": "2026-11-22T09:25:41.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
