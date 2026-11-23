@@ -1,6 +1,6 @@
 # Awesome osx security awesome with stars
 
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,732 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,343 | 🐛 103 | 📅 2026-09-02[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
 ***
 
@@ -135,7 +135,7 @@ A collection of OSX/iOS security related resources
 * [Source](https://github.com/richiercyrus/Venator) ⚠️ Archived
 * Python tool for proactive detection tool for malware and trojans
 
-### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,739 | 🐛 247 | 🌐 Shell | 📅 2026-11-20
+### [lynis](https://github.com/CISOfy/lynis/) ⭐ 16,747 | 🐛 247 | 🌐 Shell | 📅 2026-11-20
 
 * Security auditing tool for UNIX-based systems, including macOS
 
@@ -450,7 +450,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Audit and fix macOS High Sierra (10.13.x) security settings
 
-### [Darling](https://github.com/darlinghq/darling) ⭐ 13,799 | 🐛 409 | 🌐 Objective-C | 📅 2026-11-22
+### [Darling](https://github.com/darlinghq/darling) ⭐ 13,803 | 🐛 409 | 🌐 Objective-C | 📅 2026-11-23
 
 * Darwin/macOS emulation layer for Linux
 
@@ -565,7 +565,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ### [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,482 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26
 
-### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,334 | 🐛 35 | 🌐 Python | 📅 2026-11-20
+### [Chipsec](https://github.com/chipsec/chipsec) ⭐ 3,334 | 🐛 39 | 🌐 Python | 📅 2026-11-23
 
 * System firmware checker by Intel
 
@@ -605,7 +605,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
-### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 2 | 🌐 Shell | 📅 2026-11-21
+### [Raccoon](https://github.com/thousandflowers/Raccoon) ⭐ 131 | 🐛 2 | 🌐 Shell | 📅 2026-11-22
 
 * CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
@@ -656,8 +656,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 
 ## Other OSX Awesome lists
 
-* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,780 | 🐛 1 | 🌐 Shell | 📅 2026-11-17
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,781 | 🐛 1 | 🌐 Shell | 📅 2026-11-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

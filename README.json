@@ -232,7 +232,7 @@
             "open_issues": 247,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16739,
+            "stars": 16747,
             "topics": [
               "auditing",
               "compliance",
@@ -483,7 +483,7 @@
             "open_issues": 3,
             "owner": "apple",
             "repo": "darwin-xnu",
-            "stars": 11273,
+            "stars": 11272,
             "topics": [
               "kernel"
             ]
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T09:23:43Z",
+            "last_commit": "2026-11-23T10:19:51Z",
             "open_issues": 409,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13799,
+            "stars": 13803,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31124,
+            "stars": 31131,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1224,8 +1224,8 @@
             "id": 17494082,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-20T19:56:26Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-23T01:04:04Z",
+            "open_issues": 39,
             "owner": "chipsec",
             "repo": "chipsec",
             "stars": 3334,
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-21T12:43:56Z",
+            "last_commit": "2026-11-22T12:38:46Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1414,7 +1414,7 @@
             "open_issues": 176,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9011,
+            "stars": 9009,
             "topics": [
               "android",
               "backdoor",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:25:41.565Z",
+    "last_updated": "2026-11-23T10:22:04.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
@@ -1518,7 +1518,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-10-13T21:40:49Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "kai5263499",
       "repo": "osx-security-awesome",
       "stars": 794,
