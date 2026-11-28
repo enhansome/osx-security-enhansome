@@ -232,7 +232,7 @@
             "open_issues": 249,
             "owner": "CISOfy",
             "repo": "lynis",
-            "stars": 16853,
+            "stars": 16858,
             "topics": [
               "auditing",
               "compliance",
@@ -623,7 +623,7 @@
             "open_issues": 2,
             "owner": "externalist",
             "repo": "exploit_playground",
-            "stars": 617,
+            "stars": 616,
             "topics": []
           },
           "title": "Proof of Concept for Remote Code Execution in WebContent",
@@ -742,11 +742,11 @@
             "id": 7077690,
             "language": "Objective-C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-27T07:44:07Z",
-            "open_issues": 424,
+            "last_commit": "2026-11-28T09:32:37Z",
+            "open_issues": 411,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13848,
+            "stars": 13855,
             "topics": []
           },
           "title": "Darling",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31139,
+            "stars": 31141,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1207,7 +1207,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6483,
+            "stars": 6484,
             "topics": []
           },
           "title": "PoisonTap",
@@ -1287,7 +1287,7 @@
             "id": 1222452390,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-26T13:57:39Z",
+            "last_commit": "2026-11-27T13:56:11Z",
             "open_issues": 2,
             "owner": "thousandflowers",
             "repo": "Raccoon",
@@ -1321,10 +1321,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-11-12T12:43:33Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "ai-agents",
               "amphetamine-alternative",
@@ -1453,7 +1453,7 @@
             "open_issues": 56,
             "owner": "lucasjacks0n",
             "repo": "EggShell",
-            "stars": 1779,
+            "stars": 1778,
             "topics": [
               "exploitation",
               "information-security",
@@ -1486,7 +1486,7 @@
             "open_issues": 44,
             "owner": "Marten4n6",
             "repo": "EvilOSX",
-            "stars": 2430,
+            "stars": 2431,
             "topics": [
               "backdoor",
               "mac",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:34:47.644Z",
+    "last_updated": "2026-11-28T09:51:19.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of OSX and iOS security resources",
